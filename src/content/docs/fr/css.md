@@ -1,5 +1,5 @@
 ---
-title: "Page 2"
+title: "test"
 description: "Lorem ipsum dolor sit amet - 2"
 ---
 

@@ -37,10 +37,10 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	fr: {
-		'Section Header': [
-			{ text: 'Introduction', link: 'fr/introduction' },
-			{ text: 'Page 2', link: 'fr/page-2' },
-			{ text: 'Page 3', link: 'fr/page-3' },
+		'Thèmes': [
+			{ text: 'HTML', link: 'fr/HTML' },
+			{ text: 'CSS', link: 'fr/CSS' },
+			{ text: 'Javascript', link: 'fr/Javascript' },
 		],
 		'Another Section': [{ text: 'Page 4', link: 'fr/page-4' }],
 	},
