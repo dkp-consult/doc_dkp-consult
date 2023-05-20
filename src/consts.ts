@@ -41,6 +41,8 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'HTML', link: 'fr/HTML' },
 			{ text: 'CSS', link: 'fr/CSS' },
 			{ text: 'Javascript', link: 'fr/Javascript' },
+			{ text: 'GitHub', link: 'fr/GitHub' },
+			{ text: 'Linux', link: 'fr/Linux' },
 		],
 		'Another Section': [{ text: 'Page 4', link: 'fr/page-4' }],
 	},
