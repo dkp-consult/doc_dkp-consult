@@ -86,7 +86,7 @@ The sidebar navigation is controlled by the `SIDEBAR` variable in your `src/cons
 
 ```ts
 export const SIDEBAR = {
-  en: {
+  fr: {
 		'Section Header': [
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: 'Page 2', link: 'en/page-2' },
