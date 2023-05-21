@@ -1,9 +1,9 @@
 ---
-title: "CSS"
-description: "Ressources liées au CSS"
+title: "Template"
+description: "Template canvas"
 ---
 
-**Bienvenue sur la section CSS**
+**Bienvenue sur la section TEMPLATE**
 
 
 ## Apprentissage
@@ -17,12 +17,3 @@ description: "Ressources liées au CSS"
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
-## Exercices 
-
-[Flebox Froggy](https://flexboxfroggy.com/#fr) : Flexbox Froggy est un jeu interactif en ligne qui permet d'apprendre les bases du positionnement des éléments HTML à l'aide de la propriété CSS Flexbox. Il propose une approche ludique et pratique pour comprendre et maîtriser Flexbox, qui est une technique très utile pour créer des mises en page flexibles et réactives.
-
-[CSS Diner](https://flukeout.github.io/) : Flukeout (CSS Diner) est un jeu interactif en ligne conçu pour aider les développeurs à apprendre et à maîtriser les sélecteurs CSS. Il propose une approche ludique et pratique pour comprendre et utiliser efficacement les sélecteurs CSS afin de cibler et de styliser les éléments HTML.
-
-## Outils
-
-[Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.

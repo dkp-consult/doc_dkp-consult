@@ -43,6 +43,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Javascript', link: 'fr/javascript' },
 			{ text: 'GitHub', link: 'fr/github' },
 			{ text: 'Linux', link: 'fr/linux' },
+			{ text: 'Template', link: 'fr/template'}
 		],
 		'Snippets': [
 			{ text: 'Page 4', link: 'fr/snippets/page-4' }
