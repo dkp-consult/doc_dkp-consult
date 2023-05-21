@@ -23,6 +23,8 @@ description: "Ressources liées au CSS"
 
 [CSS Diner](https://flukeout.github.io/) : Flukeout (CSS Diner) est un jeu interactif en ligne conçu pour aider les développeurs à apprendre et à maîtriser les sélecteurs CSS. Il propose une approche ludique et pratique pour comprendre et utiliser efficacement les sélecteurs CSS afin de cibler et de styliser les éléments HTML.
 
+[Flexbox Defense](http://www.flexboxdefense.com/) : Flexbox Defense est un jeu en ligne interactif conçu pour aider les développeurs à apprendre et à pratiquer les concepts de base du Flexbox en CSS. Il propose un environnement de jeu ludique où les joueurs doivent utiliser les propriétés et les valeurs du Flexbox pour positionner et aligner des éléments de défense afin de protéger leur château des envahisseurs.
+
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.
