@@ -1,36 +1,79 @@
 ---
 title: "Page 4"
 description: "Lorem ipsum dolor sit amet - 4"
+setup : import Button from '../../../components/snippets/Button.vue'
 ---
 
-This is a fully-featured page, written in Markdown!
+## All buttons
 
-## Section A
+This page is an example on how to document your button components, most of the copy was written by AI so don't take it very seriously.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Find the code for this page in the `src/pages/components/buttons.md` file.
 
-## Section B
+<div class="component-preview">
+<div class="button-illustration">
+    <div class="btn btn-yellow">
+      <p class="btn-text text-black">button</p>
+    </div>
+  </div>
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+  <div class="button-illustration">
+    <div class="btn btn-dark">
+      <p class="btn-text text-white">button</p>
+    </div>
+  </div>
 
-## Section C
+  <div class="button-illustration">
+    <div class="btn btn-dark btn-animation">
+        <p class="btn-text text-white text-animation">button</p>
+      </div>
+  </div>
+</div>
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+```html
+  <button class="test">Primary</button>
+  <button class="test">Primary</button>
+  <button class="test">Primary</button>
+```
+```css
+    .test {
+        background-color: red;
+    }
+```
 
-# Markdown example
+## Primary button
 
-This is a fully-featured page, written in Markdown!
+We use the primary button for main actions like saving a form or creating a new item.
 
-## Section A
+<div class="component-preview">
+    <MainButton primary>Primary button</MainButton>
+</div>
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+```js
+<MainButton primary>Primary button</MainButton>
+```
 
-## Section B
+## Secondary button
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+Secondary buttons accompany primary buttons to provide additional actions.
+For example, cancel buttons are secondary buttons.
+
+<div class="component-preview">
+    <MainButton secondary>Secondary button</MainButton>
+</div>
+
+```js
+<MainButton secondary>Secondary button</MainButton>
+```
+
+## Text button
+
+Text buttons are used for actions that do not require a primary or secondary button.
+
+<div class="component-preview">
+    <MainButton text>Text button</MainButton>
+</div>
+
+```js
+<MainButton text>Text button</MainButton>
 ```
