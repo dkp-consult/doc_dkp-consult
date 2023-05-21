@@ -1,3 +1,8 @@
+---
+title: "Mots d'explications"
+description: "Page d'accueil et mots d'explication sur le site"
+---
+
 # Astro Starter Kit: Docs Site
 
 ```bash
