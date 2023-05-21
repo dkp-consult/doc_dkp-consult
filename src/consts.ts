@@ -38,12 +38,17 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	fr: {
 		'Thèmes': [
-			{ text: 'HTML', link: 'fr/HTML' },
-			{ text: 'CSS', link: 'fr/CSS' },
-			{ text: 'Javascript', link: 'fr/Javascript' },
-			{ text: 'GitHub', link: 'fr/GitHub' },
-			{ text: 'Linux', link: 'fr/Linux' },
+			{ text: 'HTML', link: 'fr/html' },
+			{ text: 'CSS', link: 'fr/css' },
+			{ text: 'Javascript', link: 'fr/javascript' },
+			{ text: 'GitHub', link: 'fr/github' },
+			{ text: 'Linux', link: 'fr/linux' },
 		],
-		'Another Section': [{ text: 'Page 4', link: 'fr/page-4' }],
+		'Snippets': [
+			{ text: 'Page 4', link: 'fr/snippets/page-4' }
+		],
+		'Liens externes' : [
+			{ text : 'Externe', link: 'fr/page-4'}
+		]
 	},
 };
