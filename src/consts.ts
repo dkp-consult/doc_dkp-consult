@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'dkp-consult - doc',
+	title: '',
 	description: 'Snippets, ressources, liens et autres choses utiles. Le but est de centraliser toutes les ressources utilisées régulièrement.',
 	defaultLanguage: 'fr-BE',
 } as const;
