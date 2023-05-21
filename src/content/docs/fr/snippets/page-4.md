@@ -1,7 +1,6 @@
 ---
 title: "Page 4"
 description: "Lorem ipsum dolor sit amet - 4"
-setup : import Button from '../../../components/snippets/Button.vue'
 ---
 
 ## All buttons
