@@ -47,6 +47,7 @@ description: "Ressources liées au CSS"
 
 [Defensive CSS](https://defensivecss.dev/) : Denfensive CSS est un site web qui met l'accent sur les techniques et les conseils pour écrire du CSS défensif. Il fournit des astuces pratiques, des exemples concrets et des ressources complémentaires pour vous aider à améliorer la qualité et la stabilité de votre code CSS.
 
-## Tuto & test à faire
+[CSS-Tricks](https://css-tricks.com/) : CSS-Tricks est un site web populaire qui fournit des ressources, des tutoriels et des astuces sur le développement web, en mettant particulièrement l'accent sur les techniques CSS.
 
-[Bordures floues et arc en ciel](https://believemy.com/r/faire-des-bordures-et-des-flous-arc-en-ciel-animes) : WIP
+[CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : L'article "A Guide to Flexbox" de CSS-Tricks est une ressource précieuse pour les développeurs web qui souhaitent maîtriser Flexbox et utiliser cette technique de mise en page puissante dans leurs projets. Que tu sois débutant ou expérimenté en CSS, cet article te donnera une compréhension approfondie de Flexbox et t'aidera à créer des mises en page flexibles et responsives avec facilité.
+

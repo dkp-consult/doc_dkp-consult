@@ -14,3 +14,5 @@ J'avais déjà commencé un projet de bibliothèque de snippet perso, il s'agit 
 Ces ressources ne se veulent pas exhaustive ni unique, il s'agit simplement d'une manière pour moi de tout centraliser et d'avoir un accès facile à toutes ces ressources.
 
 Je tenterais de créditer un maximum les personnes m'ayant fait découvrir la ou les ressources, cependant, vu la quantité de ressource enregistrée par mail, favoris, notions, star sur GitHub, je ne peux garantir que tout sera indiqué, en cas d'omission, n'hésitez pas à me le signaler.
+
+Dans un premier temps, une grande partie des descriptions est générée via de l'I.A. afin de gagner un brin de temps pour la mise en production. 

@@ -55,3 +55,26 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [CheckiO](https://checkio.org/) : CheckiO est une plateforme d'apprentissage interactive qui propose des défis de programmation basés sur des jeux. Elle offre aux développeurs une opportunité d'améliorer leurs compétences en résolution de problèmes, en algorithmie et en programmation tout en s'amusant. Les défis sont basés sur différents langages de programmation tels que Python, JavaScript, Java, C++ et d'autres.
 
+### Responsively.app
+
+[Responsively.app](https://responsively.app/) : Responsively.app est un outil très pratique pour les développeurs et les testeurs web. Il s'agit d'une application de bureau gratuite qui permet de visualiser et de tester facilement la réactivité d'un site web sur différentes tailles d'écran et résolutions.
+
+[Random Quote Generator](https://dev.to/nehasoni__/random-quote-generator-using-html-css-and-javascript-3gbp) : Création d'un générateur de citation random en HTML, CSS, JS.
+
+[Sketch2Code](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code) : Sketch2Code est un projet de recherche et de développement de Microsoft qui explore l'utilisation de l'intelligence artificielle (IA) pour convertir des croquis d'interface utilisateur en code HTML fonctionnel.
+
+### frontend-dev-bookmarks
+
+[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) : En résumé, "frontend-dev-bookmarks" est une collection bien organisée de signets regroupant des ressources pour les développeurs front-end. C'est une ressource précieuse pour ceux qui cherchent à approfondir leurs connaissances et à rester à jour dans le domaine du développement web.
+
+### Roadmap.sh 
+
+[Roadmap.sh](https://roadmap.sh/) : En résumé, "roadmap.sh" est un site web qui propose des roadmaps de progression pour différents parcours professionnels liés à la programmation et au développement informatique. C'est une ressource utile pour les développeurs qui cherchent à planifier leur apprentissage et à acquérir les compétences nécessaires pour réussir dans leur carrière.
+
+### Awesome Cheatsheets 
+
+[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) : En résumé, "Awesome Cheatsheets" est un dépôt GitHub qui regroupe une collection de feuilles de triche couvrant différents sujets liés à la programmation, au développement web, aux langages de programmation, aux outils et aux frameworks. C'est une ressource pratique pour accéder rapidement à des informations clés et améliorer l'efficacité dans le domaine de la technologie.
+
+### Front-End Checklist
+
+[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) : En résumé, "Front-End Checklist" est un dépôt GitHub qui fournit une liste de contrôle complète des bonnes pratiques front-end à suivre lors du développement de sites Web ou d'applications front-end. C'est une ressource précieuse pour les développeurs qui souhaitent s'assurer de respecter les normes de qualité, de performance, de sécurité et de compatibilité lors de leurs projets front-end.

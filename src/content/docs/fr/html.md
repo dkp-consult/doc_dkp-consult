@@ -29,6 +29,8 @@ description: "Ressources liées au HTML"
 
 [W3Schools color picker](https://www.w3schools.com/colors/colors_picker.asp) : st un outil en ligne proposé par W3Schools, un site web populaire offrant des ressources éducatives sur le développement web. L'outil de sélection de couleurs vous permet d'explorer et de choisir des couleurs en utilisant différents formats de codes de couleur, tels que les codes hexadécimaux, les codes RGB et les codes HSL.
 
+[HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) : En résumé, HTML5 Boilerplate est un projet open source qui fournit un modèle de base optimisé pour le développement de sites Web HTML5. Il propose une structure de fichiers organisée, des configurations optimisées et des bonnes pratiques de développement web pour vous aider à démarrer rapidement et à créer des sites Web performants et compatibles entre navigateurs.
+
 ## Cheatsheet
 
 [HTML Cheatsheet](https://htmlcheatsheet.com/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage HTML.
