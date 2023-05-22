@@ -1,36 +1,26 @@
 ---
-title: "Page 3"
-description: "Lorem ipsum dolor sit amet - 3"
+title: "Javascript"
+description: "Ressources liées au Javascript"
 ---
 
-This is a fully-featured page, written in Markdown!
+**Bienvenue sur la section Javascript**
 
-## Section A
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+## Apprentissage
 
-## Section B
+[Mozilla Developer Network](https://developer.mozilla.org/fr/) : MDN est une ressource en ligne populaire et fiable qui fournit une documentation complète sur les technologies web. MDN offre des guides détaillés, des références complètes, des exemples de code et des tutoriels couvrant un large éventail de sujets liés au développement web, tels que HTML, CSS, JavaScript, APIs web, accessibilité, performance web, sécurité et bien plus encore.
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
 
-## Section C
+[W3Schools Online Web](https://www.w3schools.com/default.asp) : W3Schools est un site web populaire qui propose des ressources d'apprentissage en ligne pour le développement web. Il offre des tutoriels, des exemples de code, des références et des exercices pratiques pour différents langages et technologies web.
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+[Grafikart.fr](https://grafikart.fr/) : Grafikart est un site web francophone axé sur l'apprentissage et la formation en développement web et en design graphique. Il propose des tutoriels, des cours vidéo, des articles de blog et des ressources pour les développeurs et les designers.
 
-# Markdown example
+[OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
-This is a fully-featured page, written in Markdown!
+## Exercices
 
-## Section A
+## Outils
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+## Cheatsheet
 
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+[JS CheatSheet](https://htmlcheatsheet.com/js/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage JS.

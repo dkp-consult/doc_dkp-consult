@@ -28,3 +28,7 @@ description: "Ressources liées au CSS"
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.
+
+## Cheatsheet
+
+[CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.

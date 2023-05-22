@@ -17,3 +17,19 @@ description: "Ressources liées au HTML"
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
+## Outils 
+
+[W3C Validator](https://validator.w3.org/) : W3C Validator est un service en ligne fourni par le World Wide Web Consortium (W3C) qui permet de valider la conformité des documents HTML et CSS selon les normes et recommandations du W3C.
+
+[HTML Color codes](https://htmlcolorcodes.com/fr/) : HTML color codes est un site web qui fournit des outils et des ressources pour travailler avec les codes de couleur HTML. Il offre une variété d'outils et d'informations utiles pour choisir, créer et gérer les couleurs dans vos projets web.
+
+[Code couleur](https://www.code-couleur.com/) : Code couleur est un site web qui propose des outils et des informations pour travailler avec les codes de couleur. Il est principalement axé sur les codes de couleur HTML, CSS et RGB.
+
+[HTML color codes](https://html-color.codes/) : HTML Color est un site web qui offre une variété d'outils et de ressources liés aux codes de couleur HTML.
+
+[W3Schools color picker](https://www.w3schools.com/colors/colors_picker.asp) : st un outil en ligne proposé par W3Schools, un site web populaire offrant des ressources éducatives sur le développement web. L'outil de sélection de couleurs vous permet d'explorer et de choisir des couleurs en utilisant différents formats de codes de couleur, tels que les codes hexadécimaux, les codes RGB et les codes HSL.
+
+## Cheatsheet
+
+[HTML Cheatsheet](https://htmlcheatsheet.com/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage HTML.
+
