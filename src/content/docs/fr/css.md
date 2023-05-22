@@ -25,10 +25,23 @@ description: "Ressources liées au CSS"
 
 [Flexbox Defense](http://www.flexboxdefense.com/) : Flexbox Defense est un jeu en ligne interactif conçu pour aider les développeurs à apprendre et à pratiquer les concepts de base du Flexbox en CSS. Il propose un environnement de jeu ludique où les joueurs doivent utiliser les propriétés et les valeurs du Flexbox pour positionner et aligner des éléments de défense afin de protéger leur château des envahisseurs.
 
+[Grid Garden](https://cssgridgarden.com/#fr) : CSS Grid Garden est un jeu interactif en ligne qui permet d'apprendre et de pratiquer les bases du CSS Grid, une puissante fonctionnalité de mise en page introduite dans CSS3.
+
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.
 
+[Charts.css](https://chartscss.org/) : Charts.css est une bibliothèque légère et simple qui permet de créer des graphiques et des diagrammes attrayants en utilisant uniquement des styles CSS.
+
+[Animista](https://animista.net/) : Animista propose une large gamme d'animations CSS que vous pouvez utiliser pour donner vie à vos projets web. Ces animations couvrent divers effets tels que les transitions, les rotations, les mouvements, les défilements, les rebonds, les clignotements, les effets de texte, les effets de survol et bien plus encore.
+
+[Missing.css](https://missing.style/) : WIP
+
 ## Cheatsheet
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.
+
+## Perfectionnement 
+
+[Defensive CSS](https://defensivecss.dev/) : Denfensive CSS est un site web qui met l'accent sur les techniques et les conseils pour écrire du CSS défensif. Il fournit des astuces pratiques, des exemples concrets et des ressources complémentaires pour vous aider à améliorer la qualité et la stabilité de votre code CSS.
+
