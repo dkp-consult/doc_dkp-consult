@@ -54,3 +54,7 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### FFFuel 
 
 [FFFUel](https://fffuel.co/) : FFFuel propose une sélection de générateurs de code pour des technologies populaires telles que HTML, CSS, JavaScript, React, Vue.js, Node.js et bien d'autres. Ces générateurs vous permettent de créer rapidement du code de base en fonction de vos besoins spécifiques. Mais également de générer des svg. 
+
+### Pixactly
+
+[Pixactly](https://pixact.ly/) : Pixactly est un jeu en ligne qui met au défi les joueurs de deviner les dimensions exactes d'une image en pixels. L'objectif est de développer la capacité à estimer avec précision la taille d'une image en utilisant uniquement des références visuelles.

@@ -19,6 +19,8 @@ description: "Ressources liées au Javascript"
 
 ## Exercices
 
+[Elevator Saga](http://play.elevatorsaga.com/) :  Elevator Saga est un jeu en ligne qui vous met au défi de programmer un système de contrôle d'ascenseurs. Le but du jeu est de créer un algorithme qui permet de transporter efficacement des personnes à différents étages en utilisant un certain nombre d'ascenseurs.
+
 ## Outils
 
 ## Cheatsheet

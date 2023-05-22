@@ -37,6 +37,8 @@ description: "Ressources liées au CSS"
 
 [Missing.css](https://missing.style/) : WIP
 
+[Tailwind CSS](https://tailwindcss.com/) : Tailwind CSS est une bibliothèque de classes utilitaires CSS hautement personnalisable et basée sur les classes. Elle offre une approche différente de la création d'interfaces utilisateur par rapport aux frameworks CSS traditionnels tels que Bootstrap.
+
 ## Cheatsheet
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.
@@ -45,3 +47,6 @@ description: "Ressources liées au CSS"
 
 [Defensive CSS](https://defensivecss.dev/) : Denfensive CSS est un site web qui met l'accent sur les techniques et les conseils pour écrire du CSS défensif. Il fournit des astuces pratiques, des exemples concrets et des ressources complémentaires pour vous aider à améliorer la qualité et la stabilité de votre code CSS.
 
+## Tuto & test à faire
+
+[Bordures floues et arc en ciel](https://believemy.com/r/faire-des-bordures-et-des-flous-arc-en-ciel-animes) : WIP

@@ -19,7 +19,6 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [WebCode.tools](https://webcode.tools/fr) : WebCode.tools est un site web qui offre une variété d'outils et de générateurs pour les développeurs web. Il vise à faciliter le processus de développement en fournissant des fonctionnalités pratiques et des ressources utiles.
 
-
 ### Tool finder
 
 [Tool Finder](https://toolfinder.co/) : WIP
@@ -39,3 +38,20 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 ### IT Tools 
 
 [IT Tools](https://it-tools.tech/) : WIP
+
+### Can I Use
+
+[Can I Use](https://caniuse.com/) : Can I use est un site web populaire qui fournit des informations sur la compatibilité des fonctionnalités HTML, CSS et JavaScript dans différents navigateurs web. Son objectif est d'aider les développeurs web à prendre des décisions éclairées lorsqu'ils choisissent d'utiliser certaines fonctionnalités ou technologies dans leurs projets.
+
+### Code Combat
+
+[Code Combat](https://codecombat.com/) : CodeCombat est une plateforme d'apprentissage de la programmation axée sur le jeu. Elle offre aux utilisateurs, en particulier aux débutants, une expérience interactive et ludique pour apprendre à coder. CodeCombat propose un large éventail de langages de programmation, y compris JavaScript, Python, Java, C++, et bien d'autres. Cela permet aux utilisateurs d'apprendre la syntaxe et les concepts de programmation dans le langage de leur choix.
+
+### Hex Invaders
+
+[Hex Invaders](http://www.hexinvaders.com/) : HexInvaders est un jeu en ligne qui combine le jeu classique Space Invaders avec les concepts de couleurs et de codage en utilisant le système hexadécimal. HexInvaders est un excellent moyen d'apprendre et de pratiquer les codes hexadécimaux d'une manière interactive et amusante.
+
+### CheckiO
+
+[CheckiO](https://checkio.org/) : CheckiO est une plateforme d'apprentissage interactive qui propose des défis de programmation basés sur des jeux. Elle offre aux développeurs une opportunité d'améliorer leurs compétences en résolution de problèmes, en algorithmie et en programmation tout en s'amusant. Les défis sont basés sur différents langages de programmation tels que Python, JavaScript, Java, C++ et d'autres.
+
