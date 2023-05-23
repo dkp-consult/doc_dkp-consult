@@ -30,3 +30,4 @@ description: "Ressources liées à Linux "
 
 [Forum Francophone de Linux Mint](https://forum-francophone-linuxmint.fr/) : Forum Francophone Linux Mint, il dispose d'un communauté prête à aider lors de la découvert et ou l'usage de Linux. J'ai régulièrement posé des questions et appris via ce forum. 
 
+## 

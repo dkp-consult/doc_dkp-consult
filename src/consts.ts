@@ -47,6 +47,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Python', link: 'fr/python' },
 			{ text: 'Markdown', link: 'fr/markdown' },
 			{ text: 'Design', link: 'fr/design'},
+			{ text: 'SEO', link: 'fr/seo'},
 			{ text: 'Exercices', link: 'fr/exercices' },
 			{ text: 'Outils', link: 'fr/outils'},
 			{ text: 'Linux', link: 'fr/linux' },

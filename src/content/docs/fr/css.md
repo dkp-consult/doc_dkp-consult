@@ -29,7 +29,9 @@ description: "Ressources liées au CSS"
 
 [Cours SASS - Pierre Giraud](https://www.pierre-giraud.com/sass-apprendre-cours-complet/presentation-installation-sass/) : Le cours est divisé en différentes sections, couvrant des sujets tels que les variables, les sélecteurs imbriqués, les mixins, les fonctions, les boucles et les conditions. Chaque section est accompagnée de code d'exemple et d'explications détaillées pour vous aider à comprendre et à utiliser efficacement Sass.
 
-## Perfectionnement 
+## Perfectionnement
+
+[Variables de couleur SCSS](https://htmlcolorcodes.com/fr/tutoriels/variables-de-couleur-scss/) : Mots d'explication sur les variables de couleurs SCSS/SASS
 
 ## Outils
 
@@ -66,3 +68,4 @@ description: "Ressources liées au CSS"
 
 [CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : L'article "A Guide to Flexbox" de CSS-Tricks est une ressource précieuse pour les développeurs web qui souhaitent maîtriser Flexbox et utiliser cette technique de mise en page puissante dans leurs projets. Que tu sois débutant ou expérimenté en CSS, cet article te donnera une compréhension approfondie de Flexbox et t'aidera à créer des mises en page flexibles et responsives avec facilité.
 
+[Flexbox - Ultimate cheatsheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/) : freeCodeCamp propose un article, une cheatsheet sur CSS Flex

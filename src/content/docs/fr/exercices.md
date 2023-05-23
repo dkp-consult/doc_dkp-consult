@@ -14,6 +14,8 @@ description: "Ressources liées au site d'exercices"
 
 [100 Web Projects for Beginners](https://twitter.com/selemondev/status/1571393482576777218) : WIP
 
+[Frontend Mentor](https://www.frontendmentor.io/) : Frontend Mentor est une plateforme en ligne qui propose des projets pratiques pour les développeurs web en herbe. Son objectif principal est d'aider les apprenants à améliorer leurs compétences en développement frontend en travaillant sur des projets réels et en relevant des défis.
+
 ## Tutos
 
 ## Tuto & test à faire
@@ -30,3 +32,6 @@ description: "Ressources liées au site d'exercices"
 
 ## Cheatsheet
 
+## Programmation
+
+[Taininx](https://tainix.fr/challenges) : Différents challenge de programmation et de réflexion avec des corrigés disponibles. 

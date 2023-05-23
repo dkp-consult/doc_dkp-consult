@@ -7,6 +7,10 @@ description: "Boite à outils"
 
 Cette partie regroupe des outils divers et variés. Dans un premier temps, ils seront placés en vrac avec un mot d'explication, par la suite un système de filtre sera mis en place. 
 
+### Notion complet de ressources
+
+[Ressources par Fabien Schlegel](https://fabienschlegel.gumroad.com/l/icyul) : Notion complet et extrèmement bien documenté de diverses ressources (+250) pour les développeurs et designer.
+
 ### Readme.so 
 
 [Readme.so](https://readme.so/fr) : Readme.so est une plateforme en ligne qui permet de créer rapidement et facilement des pages de documentation attractives et professionnelles. Elle est conçue pour simplifier le processus de création de readme et de documentation pour les projets de développement, les API, les bibliothèques, les produits et bien plus encore.
