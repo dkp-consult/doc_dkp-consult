@@ -4,14 +4,11 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://doc.dkp-consult.be',
-
 	integrations: [
 		// Enable Preact to support Preact JSX components.
 		preact(),
 		// Enable React for the Algolia search component.
 		react(),
-        
 	],
-	site: `https://astro.build`,
+	site: `https://doc.dkp-consult.be`,
 });
