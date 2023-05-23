@@ -10,6 +10,10 @@ description: "Ressources liées au site d'exercices"
 
 [Web Developer Mentor](https://webdevelopermentor.com/) : WIP
 
+[Codier.io](https://codier.io/) : WIP
+
+[100 Web Projects for Beginners](https://twitter.com/selemondev/status/1571393482576777218) : WIP
+
 ## Tutos
 
 ## Tuto & test à faire

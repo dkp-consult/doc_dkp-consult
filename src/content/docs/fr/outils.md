@@ -78,3 +78,81 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 ### Front-End Checklist
 
 [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) : En résumé, "Front-End Checklist" est un dépôt GitHub qui fournit une liste de contrôle complète des bonnes pratiques front-end à suivre lors du développement de sites Web ou d'applications front-end. C'est une ressource précieuse pour les développeurs qui souhaitent s'assurer de respecter les normes de qualité, de performance, de sécurité et de compatibilité lors de leurs projets front-end.
+
+### Excalidraw
+
+[Excalidraw](https://excalidraw.com/) : Excalidraw est une application web interactive qui permet de créer des dessins et des diagrammes facilement. Il se distingue par sa simplicité d'utilisation et sa flexibilité pour créer des croquis, des schémas, des diagrammes de flux, des wireframes et bien plus encore.
+
+### Tldraw
+
+[Tldraw](https://www.tldraw.com/) : Tldraw est une application web qui permet de créer rapidement des diagrammes de flux, des organigrammes, des diagrammes de processus et d'autres types de schémas visuels. Son interface simple et conviviale en fait un outil pratique pour communiquer des idées et des concepts de manière visuelle.
+
+### Draw.io / Diagrams.net
+
+[Draw.io / Diagrams.net](https://app.diagrams.net/) : En résumé, Diagrams.net est un outil puissant et flexible pour la création de diagrammes et de schémas. Que vous soyez un professionnel, un étudiant ou un passionné de visualisation des données, cette application vous permet de créer facilement des représentations visuelles de vos idées et concepts.
+
+### CyberChef
+
+[CyberChef](https://gchq.github.io/CyberChef/) : CyberChef est un outil puissant pour le traitement et l'analyse de données. Que vous ayez besoin de manipuler des chaînes de texte, de déchiffrer des messages, de compresser des fichiers ou d'analyser des données, CyberChef offre une grande flexibilité et une large gamme de fonctionnalités.
+
+### 10 CV Builder par [Guillaume](https://twitter.com/guillaume_rygn/status/1566685042004398080)
+
+[flow.cv](https://flowcv.com/) : CV Builder
+
+[Resume.io](https://resume.io/) : CV Builder
+
+[Reactive Resume](https://rxresu.me/) : CV Builder
+
+[ResumeNerd](https://www.resumenerd.com/) : CV Builder
+
+[ResumeLab](https://resumelab.com/fr/cv-en-ligne) : CV Builder
+
+[Resume Genius](https://resumegenius.com/) : CV Builder
+
+[Novoresume](https://novoresume.com/) : CV Builder
+
+[My Perfect Resume](https://www.myperfectresume.com/) : CV Builder
+
+[Live Career](https://www.livecareer.fr/) : CV Builder
+
+### Hébergement serverless
+
+[Napkin](https://www.napkin.io/) : Napkin est une application en ligne qui permet de créer rapidement des wireframes et des croquis pour des projets de conception web ou d'interface utilisateur. C'est un outil pratique pour visualiser et communiquer des idées de conception de manière rapide et simple, sans nécessiter de compétences avancées en conception graphique.
+
+[Github Pages](https://pages.github.com/) : GitHub Pages est un service proposé par GitHub qui permet de créer et d'héberger des sites web statiques directement depuis un dépôt GitHub. C'est une plateforme populaire utilisée par de nombreux développeurs et projets open source pour partager leurs sites web, documentations, portfolios et autres projets en ligne.
+
+[surge](https://surge.sh/) : Surge est une plateforme d'hébergement de sites web statiques qui permet de déployer rapidement et facilement des sites web. Elle est principalement utilisée pour les projets de développement web front-end, les prototypes et les sites web personnels.
+
+[Heroku](https://www.heroku.com/) : Heroku est une plateforme d'hébergement en tant que service (PaaS) qui permet de déployer, de gérer et de mettre à l'échelle des applications web. Elle est principalement utilisée pour les applications développées en langages de programmation tels que Ruby, Node.js, Python et Java, mais elle prend également en charge d'autres langages.
+
+[Vercel](https://vercel.com/) : Vercel est une plateforme de déploiement et d'hébergement qui se concentre sur les applications web statiques et les fonctions serverless. Elle offre une expérience de développement sans serveur (serverless) pour les développeurs qui souhaitent déployer rapidement des sites web, des applications frontales et des API.
+
+[Serverless](https://www.serverless.com/) : Serverless est un paradigme de développement d'applications dans lequel vous pouvez créer et exécuter des applications sans vous soucier de la gestion de l'infrastructure sous-jacente. Cela signifie que vous pouvez vous concentrer uniquement sur l'écriture du code métier de votre application sans vous préoccuper de la gestion des serveurs, de l'évolutivité, de la mise à l'échelle, de la disponibilité, etc.
+
+[Static Forms](https://www.staticforms.xyz/) : StaticForms.xyz est un service qui permet de gérer facilement des formulaires de contact pour les sites web statiques. Il offre une solution simple pour collecter des données à partir de vos visiteurs sans nécessiter un serveur backend ou une infrastructure complexe.
+
+[netlify](https://www.netlify.com/) : Netlify est une plateforme de déploiement et d'hébergement de sites web qui simplifie le processus de développement, de déploiement et de gestion des sites web statiques. Elle offre une solution complète pour les développeurs souhaitant héberger leurs sites web de manière rapide, sécurisée et scalable.
+
+### Nom de domaine
+
+[freenom](https://www.freenom.com/fr/index.html?lang=fr) : En résumé, Freenom est un service d'enregistrement de noms de domaine offrant à la fois des domaines gratuits et abordables. Il convient aux utilisateurs recherchant une solution économique pour obtenir un nom de domaine personnalisé pour leurs sites web ou leurs projets en ligne.
+
+### No code
+
+[Editor X](https://www.editorx.com/) : Editor X est une plateforme de création de sites web avancée qui offre des fonctionnalités et des outils puissants pour les concepteurs et les développeurs. Il a été développé par Wix, une entreprise bien connue dans le domaine de la création de sites web.
+
+### Prohura
+
+[Prohura](https://prohura.com/) : Prohura est une plateforme en ligne qui offre des services de gestion des données pour les entreprises. Elle se spécialise dans la gestion des données clients, fournisseurs, produits et autres informations cruciales pour les entreprises. La plateforme permet de collecter, organiser, enrichir et gérer les données de manière centralisée.
+
+### Digger.dev
+
+[Digger.dev](https://digger.dev/) : En résumé, Digger.dev est une ressource utile pour les développeurs et les professionnels du web. Que vous ayez besoin d'outils pour le développement, le design, la sécurité ou les performances, vous trouverez probablement des ressources intéressantes sur ce site. Il peut vous faire gagner du temps et vous aider à améliorer votre productivité dans vos projets de développement web.
+
+### Learn Anything
+
+[Learn Anything](https://learn-anything.xyz/) : En résumé, Learn Anything est une plateforme qui facilite l'apprentissage et la découverte de nouveaux sujets en regroupant des ressources provenant de différentes sources. Que vous souhaitiez approfondir vos connaissances dans un domaine spécifique ou explorer de nouveaux domaines d'apprentissage, Learn Anything peut vous aider en vous offrant une vue d'ensemble organisée des ressources disponibles.
+
+
+
+

@@ -58,3 +58,59 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### Pixactly
 
 [Pixactly](https://pixact.ly/) : Pixactly est un jeu en ligne qui met au défi les joueurs de deviner les dimensions exactes d'une image en pixels. L'objectif est de développer la capacité à estimer avec précision la taille d'une image en utilisant uniquement des références visuelles.
+
+### 3D Christmas par Icons8
+
+[3D Christmas par Icons8](https://icons8.com/l/christmas-3d/) : Illustrations 3D sur le thème de Noël
+
+### ShapeFest
+
+[ShapeFest](https://www.shapefest.com/) : Shapefest peut être une ressource précieuse pour les concepteurs, les développeurs et toute personne travaillant sur des projets nécessitant des formes ou des icônes prêtes à l'emploi. Cela peut vous faire gagner du temps et faciliter l'ajout d'éléments visuels attrayants à vos créations.
+
+### Khagwal 3D
+
+[Khagwal 3D](https://3d.khagwal.com/) : WIP
+
+### Hands
+
+[Hands](https://icons8.com/l/3d-hands/) : Main en 3D
+
+### Coolors
+
+[Coolors](https://coolors.co/) : Coolors.co est un générateur de palettes de couleurs en ligne qui vous permet de créer rapidement et facilement des combinaisons de couleurs harmonieuses pour vos projets de conception.
+
+### Canva
+
+[Canva](https://www.canva.com/) : Canva est une plateforme en ligne populaire qui permet aux utilisateurs de créer facilement des designs graphiques de haute qualité, tels que des présentations, des affiches, des infographies, des logos, des cartes de visite et bien plus encore, même sans compétences en design préalables.
+
+### daisyUI
+
+[daisyUI](https://daisyui.com/) : C'est un plugin tailwind, il va créer le boostrap de ton Tailwind
+
+### MarakUI
+
+[MarakUI](https://merakiui.com/components/) : Meraki UI est une bibliothèque de composants d'interface utilisateur (UI) prête à l'emploi, conçue pour faciliter le développement d'applications web.
+
+### TailBlocks
+
+[TailBlocks](https://tailblocks.cc/) :  Tailblocks est une bibliothèque de composants d'interface utilisateur (UI) pour la création rapide de sites web et d'applications. Elle est basée sur Tailwind CSS, un framework CSS populaire axé sur l'utilité, qui permet de construire rapidement des interfaces flexibles et réactives.
+
+### HyperUI
+
+[HyperUI](https://www.hyperui.dev/) : Hyper UI est une bibliothèque de composants d'interface utilisateur (UI) réactifs et stylisables pour la création d'applications web modernes. Elle se distingue par son approche de conception centrée sur les utilisateurs, son aspect esthétique soigné et sa facilité d'utilisation.
+
+### Myna ui
+
+[Myna ui](https://mynaui.com/) : Myna UI est une bibliothèque de composants d'interface utilisateur (UI) réactive et moderne pour la création d'applications web. Elle est conçue pour faciliter le développement d'interfaces utilisateur élégantes et conviviales.
+
+###  TailwindTemplate
+
+[TailwindTemplate](https://tailwindtemplates.io/templates) : Tailwind Templates est une plateforme en ligne qui propose une collection de modèles prêts à l'emploi basés sur le framework CSS Tailwind CSS. Ces modèles couvrent une variété de catégories et de composants d'interface utilisateur, y compris les boutons.
+
+### Kitwind
+
+[Kitwind](https://kitwind.io/products/kometa/) : Kometa est un système de conception (design system) créé par Kitwind, une entreprise spécialisée dans les ressources et les outils de conception pour les développeurs et les concepteurs. Kometa est conçu pour faciliter la création d'interfaces utilisateur modernes, réactives et esthétiques.
+
+### TailwindToolBox
+
+[TailwindToolBox](https://www.tailwindtoolbox.com/starter-templates) : Tailwind Toolbox est un site Web qui propose une collection de modèles de démarrage (starter templates) prêts à l'emploi pour le framework CSS Tailwind CSS. Ces modèles sont conçus pour vous aider à démarrer rapidement vos projets en vous fournissant des mises en page, des composants et des styles préconstruits que vous pouvez utiliser et personnaliser selon vos besoins.

@@ -10,7 +10,6 @@ description: "Ressources liées au Javascript"
 
 [Mozilla Developer Network](https://developer.mozilla.org/fr/) : MDN est une ressource en ligne populaire et fiable qui fournit une documentation complète sur les technologies web. MDN offre des guides détaillés, des références complètes, des exemples de code et des tutoriels couvrant un large éventail de sujets liés au développement web, tels que HTML, CSS, JavaScript, APIs web, accessibilité, performance web, sécurité et bien plus encore.
 
-
 [W3Schools Online Web](https://www.w3schools.com/default.asp) : W3Schools est un site web populaire qui propose des ressources d'apprentissage en ligne pour le développement web. Il offre des tutoriels, des exemples de code, des références et des exercices pratiques pour différents langages et technologies web.
 
 [Grafikart.fr](https://grafikart.fr/) : Grafikart est un site web francophone axé sur l'apprentissage et la formation en développement web et en design graphique. Il propose des tutoriels, des cours vidéo, des articles de blog et des ressources pour les développeurs et les designers.
@@ -19,11 +18,17 @@ description: "Ressources liées au Javascript"
 
 [CS50's Web Programming](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/8a184b522ff64485b6701b8a05d1160e/) : Le cours "CS50's Web Programming with Python and JavaScript" sur edX est une excellente ressource pour acquérir une solide base de connaissances dans le domaine du développement web et pour améliorer vos compétences en programmation. Il est enseigné par des experts de Harvard University et offre une expérience d'apprentissage interactive et engageante.
 
-## Exercices
+[Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) : La ressource sur les "Sorting Algorithms" de Toptal est une excellente référence pour ceux qui souhaitent approfondir leur compréhension des algorithmes de tri et apprendre à les utiliser de manière efficace dans leurs programmes. Que vous soyez un étudiant en informatique, un développeur ou un passionné d'algorithmes, cette ressource peut vous aider à renforcer vos connaissances et à améliorer vos compétences en matière de programmation.
+
+## Jeux
 
 [Elevator Saga](http://play.elevatorsaga.com/) :  Elevator Saga est un jeu en ligne qui vous met au défi de programmer un système de contrôle d'ascenseurs. Le but du jeu est de créer un algorithme qui permet de transporter efficacement des personnes à différents étages en utilisant un certain nombre d'ascenseurs.
 
-## Outils
+[Code Combat](https://codecombat.com/) : CodeCombat est une plateforme d'apprentissage de la programmation axée sur le jeu. Elle offre aux utilisateurs, en particulier aux débutants, une expérience interactive et ludique pour apprendre à coder. CodeCombat propose un large éventail de langages de programmation, y compris JavaScript, Python, Java, C++, et bien d'autres. Cela permet aux utilisateurs d'apprendre la syntaxe et les concepts de programmation dans le langage de leur choix.
+
+## Bibliothèques
+
+[Swiper](https://swiperjs.com/) : Swiper est une bibliothèque JavaScript populaire et puissante pour créer des carrousels et des sliders interactifs. Il est utilisé pour créer des galeries d'images, des diaporamas, des présentations, des bannières publicitaires et d'autres éléments interactifs basés sur le glissement tactile.
 
 ## Cheatsheet
 
@@ -38,3 +43,15 @@ description: "Ressources liées au Javascript"
 ## Livres
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) : En résumé, le dépôt "getify/You-Dont-Know-JS" sur GitHub contient une série de livres en ligne intitulée "You Don't Know JS", écrite par Kyle Simpson. Ces livres approfondissent les aspects fondamentaux et avancés de JavaScript, offrant une compréhension approfondie du langage et des meilleures pratiques de programmation. La série couvre divers sujets clés de JavaScript et est disponible gratuitement en ligne.
+
+## Exercices
+
+[30 Javascript projects for Beginners](https://github.com/selemondev/30-Javascript-Projects-For-Beginners) : WIP
+
+[5 Projets pour progresser en Javascript](https://twitter.com/melvynxdev/status/1571167130141462533) : Melvyn nous donnes une liste de projet JS pour progresser
+
+## Outlis
+
+[Regexr](https://regexr.com/) : Regexr est un site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Les expressions régulières sont des motifs de recherche utilisés pour trouver des correspondances dans les chaînes de caractères. Elles sont couramment utilisées dans le développement web, le traitement de texte, la manipulation de données et bien d'autres domaines.
+
+[regex101](https://regex101.com/) : Regex101 est un autre site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Comme son nom l'indique, il se concentre spécifiquement sur l'analyse et la compréhension des expressions régulières.

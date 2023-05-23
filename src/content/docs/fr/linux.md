@@ -16,3 +16,4 @@ description: "Ressources liées à Linux "
 
 ## Cheatsheet
 
+[Basic Linux commands for text manipulation](https://twitter.com/xtremepentest/status/1578691651324694530) : Liste de commande linux pour la manipulation de texte. 

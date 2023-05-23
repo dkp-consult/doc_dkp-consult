@@ -10,6 +10,8 @@ description: "Ressources liées Git & GitHub "
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
+[Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR) : En résumé, Learn Git Branching est une ressource précieuse pour apprendre Git et les branches Git. Son approche interactive et pratique permet aux utilisateurs de développer leurs compétences en utilisant Git de manière pratique, ce qui facilite la compréhension des concepts clés et l'acquisition d'une expérience concrète de travail avec Git.
+
 
 
 ## Exercices
@@ -20,5 +22,6 @@ description: "Ressources liées Git & GitHub "
 
 [Intégration de Git dans VSCode](https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-fr) :  Ce tutoriel fournit des instructions détaillées sur l'utilisation de Git, un système de contrôle de version populaire, avec l'éditeur de code Visual Studio Code.
 
+[ntégration continue avec GitLab CI pour débutants](https://lydra.fr/integration-continue-gitlab-ci-pour-debutants/) : Cet article est un guide qui vise à expliquer les bases de l'intégration continue (CI) et à montrer comment l'utiliser avec GitLab CI, qui est l'outil d'intégration continue intégré à la plateforme GitLab.
 
 

@@ -39,6 +39,8 @@ description: "Ressources liées au CSS"
 
 [Tailwind CSS](https://tailwindcss.com/) : Tailwind CSS est une bibliothèque de classes utilitaires CSS hautement personnalisable et basée sur les classes. Elle offre une approche différente de la création d'interfaces utilisateur par rapport aux frameworks CSS traditionnels tels que Bootstrap.
 
+[Animate.css](https://animate.style/) : Animate.style est une bibliothèque CSS qui propose une collection de animations pré-conçues prêtes à être utilisées dans vos projets web. Elle simplifie le processus d'ajout d'animations à vos éléments HTML en vous permettant d'appliquer des classes CSS spécifiques pour déclencher différentes animations.
+
 ## Cheatsheet
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.
