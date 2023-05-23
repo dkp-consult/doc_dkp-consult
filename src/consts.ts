@@ -41,7 +41,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Articles & Tutoriels', link: 'fr/articles-et-tutoriels'},
 			{ text: 'HTML', link: 'fr/html' },
 			{ text: 'CSS', link: 'fr/css' },
-			{ text: 'GitHub', link: 'fr/github' },
+			{ text: 'Git / GitHub', link: 'fr/github' },
 			{ text: 'Javascript', link: 'fr/javascript' },
 			{ text: 'React', link: 'fr/react' },
 			{ text: 'Python', link: 'fr/python' },

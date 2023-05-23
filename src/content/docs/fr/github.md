@@ -14,6 +14,8 @@ description: "Ressources liées Git & GitHub "
 
 [Débuter avec Git Archives](https://carlchenet.com/category/debuter-avec-git/) : En résumé, c'est un blog personnel tenu par Carl Chenet, qui propose une série d'articles et de tutoriels pour débuter avec Git, un système de contrôle de version largement utilisé dans le développement logiciel.
 
+[Guide pour utiliser Git](https://github.com/Yglsan/git-howto-easy-12steps-En-Fr/tree/main) : Ce guide vise à aider les débutants à maîtriser Git et à comprendre les concepts fondamentaux du contrôle de version. Il couvre des sujets tels que l'initialisation d'un référentiel Git, l'ajout et la suppression de fichiers, la gestion des branches, les opérations de fusion et de remisage, et bien plus encore.
+
 ## Exercices
 
 ## Perfectionnement

@@ -27,6 +27,8 @@ description: "Ressources liées au CSS"
 
 [Grid Garden](https://cssgridgarden.com/#fr) : CSS Grid Garden est un jeu interactif en ligne qui permet d'apprendre et de pratiquer les bases du CSS Grid, une puissante fonctionnalité de mise en page introduite dans CSS3.
 
+[Cours SASS - Pierre Giraud](https://www.pierre-giraud.com/sass-apprendre-cours-complet/presentation-installation-sass/) : Le cours est divisé en différentes sections, couvrant des sujets tels que les variables, les sélecteurs imbriqués, les mixins, les fonctions, les boucles et les conditions. Chaque section est accompagnée de code d'exemple et d'explications détaillées pour vous aider à comprendre et à utiliser efficacement Sass.
+
 ## Perfectionnement 
 
 ## Outils
@@ -50,6 +52,8 @@ description: "Ressources liées au CSS"
 [Smooth Shadow](https://shadows.brumm.af/) : En résumé, Shadows.brumm.af est un outil pratique pour créer des ombres CSS personnalisées. Il offre une interface visuelle conviviale où vous pouvez ajuster les paramètres de l'ombre et prévisualiser les résultats en temps réel. Une fois satisfait, vous pouvez générer le code CSS correspondant et l'intégrer dans votre projet web.
 
 [pattern.css](https://bansal.io/pattern-css) : En résumé, pattern.css est un site qui propose une collection de motifs CSS pré-conçus et prêts à l'emploi pour ajouter des styles visuels à vos projets web. Ces motifs CSS peuvent être utilisés pour créer des arrière-plans, des bordures, des motifs de texte et bien d'autres éléments graphiques.
+
+[VS Code Live SASS Compiler](https://github.com/glenn2223/vscode-live-sass-compiler) : L'extension "vscode-live-sass-compiler" est un outil pratique pour les développeurs qui utilisent Sass dans leurs projets. Elle accélère le processus de développement en éliminant la nécessité de compiler manuellement les fichiers Sass à chaque modification. Cela permet de gagner du temps et d'améliorer l'efficacité du flux de travail de développement front-end.
 
 ## Cheatsheet
 

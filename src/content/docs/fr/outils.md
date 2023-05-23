@@ -162,3 +162,7 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 [Chapril](https://www.chapril.org/) : En résumé, chapril est le site web d'une association qui promeut les logiciels libres et ouverts ainsi que la culture du partage des connaissances, offrant des ressources, des actualités et des opportunités d'engagement pour ceux qui partagent ces valeurs.
 
 
+### Code Diff Tool
+
+[Code Diff Tool](https://fr.w3docs.com/tools/code-diff/) : L'outil Code Diff est pratique pour analyser les modifications de code, effectuer des révisions de code en collaboration avec d'autres développeurs, ou simplement pour comprendre les différences entre deux versions de code. Il peut vous aider à détecter les erreurs, à résoudre les conflits ou à comprendre les améliorations apportées au code.
+

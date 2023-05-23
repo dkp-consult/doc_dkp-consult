@@ -33,6 +33,8 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [DDD : Domain-Driven Design](https://alexsoyes.com/ddd-domain-driven-design/) : DDD ou Domain-Driven Design est une technique de conception logicielle orientée métier. On parle de conception pilotée par le domaine.
 
+[Extension VS Code](https://talks.freelancerepublik.com/11extensions-visual-studio-code/) : Articles sur des extensions VS Code dite "incontournables". 
+
 ## GitHub repositories
 
 [DevOps Exercices](https://github.com/bregman-arie/devops-exercises) : Le référentiel GitHub "devops-exercises" de bregman-arie est un ensemble de défis et d'exercices pratiques liés à DevOps. Il vise à aider les professionnels et les apprenants à acquérir des compétences pratiques en matière de DevOps en leur fournissant des exercices pratiques et des problèmes à résoudre.
@@ -46,6 +48,8 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 ## HTML / CSS
 
 [Responsive Image gallery](https://blog.logrocket.com/responsive-image-gallery-css-flexbox/) : Création d'une gallerie avec Flexbox
+
+[Menu Responsive](https://www.raphaelbeaudet.fr/creer-un-menu-responsive-uniquement-en-html-css/) : Création d'un menu responsive avec HTML et CSS
 
 ## Wordpress
 

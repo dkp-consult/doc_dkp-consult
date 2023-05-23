@@ -118,3 +118,15 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### useAnimations
 
 [useAnimations](https://useanimations.com/index.html) : En résumé, UseAnimations est une bibliothèque en ligne de ressources d'animations SVG prêtes à être utilisées dans vos projets web. Elle propose une vaste collection d'animations de haute qualité que vous pouvez télécharger ou copier directement dans votre code. Que vous ayez besoin d'animer des icônes, des illustrations ou d'autres éléments visuels, UseAnimations vous offre une variété d'options pour ajouter du mouvement et de l'interactivité à votre site web.
+
+### Google Fonts
+
+[Google Fonts](https://fonts.google.com/) : Est une bibliothèque de polices en ligne proposée par Google. Il offre une vaste sélection de polices typographiques gratuites que vous pouvez utiliser dans vos projets web, ainsi que dans d'autres supports tels que des documents, des présentations et des applications.
+
+### Remix Icon
+
+[Remix Icon](https://remixicon.com/) : En résumé, Remix Icons est une ressource intéressante pour les concepteurs et les développeurs qui recherchent des icônes vectorielles gratuites pour leurs projets. Avec sa vaste collection, son style moderne et sa facilité d'utilisation, Remix Icons offre une solution pratique pour ajouter des icônes attrayantes à vos interfaces utilisateur et améliorer l'expérience visuelle de vos applications web.
+
+### Color Contrast Checker
+
+[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) : En utilisant l'outil de vérification du contraste de Coolors, vous pouvez vous assurer que les combinaisons de couleurs que vous utilisez dans votre design respectent les normes d'accessibilité et offrent une expérience de lecture optimale pour tous les utilisateurs.
