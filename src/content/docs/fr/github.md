@@ -16,7 +16,11 @@ description: "Ressources liées Git & GitHub "
 
 ## Exercices
 
+## Perfectionnement
+
 ## Outils
+
+## Cheatsheet
 
 ## Articles
 

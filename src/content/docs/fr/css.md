@@ -27,6 +27,8 @@ description: "Ressources liées au CSS"
 
 [Grid Garden](https://cssgridgarden.com/#fr) : CSS Grid Garden est un jeu interactif en ligne qui permet d'apprendre et de pratiquer les bases du CSS Grid, une puissante fonctionnalité de mise en page introduite dans CSS3.
 
+## Perfectionnement 
+
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.
@@ -53,7 +55,6 @@ description: "Ressources liées au CSS"
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.
 
-## Perfectionnement 
 
 [Defensive CSS](https://defensivecss.dev/) : Denfensive CSS est un site web qui met l'accent sur les techniques et les conseils pour écrire du CSS défensif. Il fournit des astuces pratiques, des exemples concrets et des ressources complémentaires pour vous aider à améliorer la qualité et la stabilité de votre code CSS.
 

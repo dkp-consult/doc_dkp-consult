@@ -12,6 +12,8 @@ description: "Ressources liées à Linux "
 
 ## Exercices
 
+## Perfectionnement
+
 ## Outils
 
 ## Cheatsheet

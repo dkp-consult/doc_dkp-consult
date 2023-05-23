@@ -20,11 +20,25 @@ description: "Ressources liées au Javascript"
 
 [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) : La ressource sur les "Sorting Algorithms" de Toptal est une excellente référence pour ceux qui souhaitent approfondir leur compréhension des algorithmes de tri et apprendre à les utiliser de manière efficace dans leurs programmes. Que vous soyez un étudiant en informatique, un développeur ou un passionné d'algorithmes, cette ressource peut vous aider à renforcer vos connaissances et à améliorer vos compétences en matière de programmation.
 
-## Jeux
+## Exercices
 
 [Elevator Saga](http://play.elevatorsaga.com/) :  Elevator Saga est un jeu en ligne qui vous met au défi de programmer un système de contrôle d'ascenseurs. Le but du jeu est de créer un algorithme qui permet de transporter efficacement des personnes à différents étages en utilisant un certain nombre d'ascenseurs.
 
 [Code Combat](https://codecombat.com/) : CodeCombat est une plateforme d'apprentissage de la programmation axée sur le jeu. Elle offre aux utilisateurs, en particulier aux débutants, une expérience interactive et ludique pour apprendre à coder. CodeCombat propose un large éventail de langages de programmation, y compris JavaScript, Python, Java, C++, et bien d'autres. Cela permet aux utilisateurs d'apprendre la syntaxe et les concepts de programmation dans le langage de leur choix.
+
+## Perfectionnement
+
+## Outlis
+
+[Regexr](https://regexr.com/) : Regexr est un site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Les expressions régulières sont des motifs de recherche utilisés pour trouver des correspondances dans les chaînes de caractères. Elles sont couramment utilisées dans le développement web, le traitement de texte, la manipulation de données et bien d'autres domaines.
+
+[regex101](https://regex101.com/) : Regex101 est un autre site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Comme son nom l'indique, il se concentre spécifiquement sur l'analyse et la compréhension des expressions régulières.
+
+[Darkmode.js](https://darkmodejs.learn.uno/) : En résumé, Darkmode.js est une bibliothèque JavaScript pratique pour ajouter un mode sombre à votre site web. Elle détecte automatiquement les paramètres du navigateur de l'utilisateur et applique les styles appropriés en fonction du mode sombre ou clair. Cela permet d'améliorer l'expérience utilisateur et de donner à votre site web un aspect attrayant, quel que soit le mode choisi par l'utilisateur.
+
+
+
+## Cheatsheet
 
 ## Bibliothèques
 
@@ -32,7 +46,6 @@ description: "Ressources liées au Javascript"
 
 [Theatre.js](https://www.theatrejs.com/) : En résumé, Theatre.js est une bibliothèque JavaScript polyvalente qui simplifie la création d'animations et d'effets de transition sur les pages web, offrant un contrôle précis et une grande flexibilité dans la mise en scène des animations.
 
-## Cheatsheet
 
 [JS CheatSheet](https://htmlcheatsheet.com/js/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage JS.
 
@@ -46,19 +59,8 @@ description: "Ressources liées au Javascript"
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) : En résumé, le dépôt "getify/You-Dont-Know-JS" sur GitHub contient une série de livres en ligne intitulée "You Don't Know JS", écrite par Kyle Simpson. Ces livres approfondissent les aspects fondamentaux et avancés de JavaScript, offrant une compréhension approfondie du langage et des meilleures pratiques de programmation. La série couvre divers sujets clés de JavaScript et est disponible gratuitement en ligne.
 
-## Exercices
 
 [30 Javascript projects for Beginners](https://github.com/selemondev/30-Javascript-Projects-For-Beginners) : WIP
 
 [5 Projets pour progresser en Javascript](https://twitter.com/melvynxdev/status/1571167130141462533) : Melvyn nous donnes une liste de projet JS pour progresser
-
-## Outlis
-
-[Regexr](https://regexr.com/) : Regexr est un site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Les expressions régulières sont des motifs de recherche utilisés pour trouver des correspondances dans les chaînes de caractères. Elles sont couramment utilisées dans le développement web, le traitement de texte, la manipulation de données et bien d'autres domaines.
-
-[regex101](https://regex101.com/) : Regex101 est un autre site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Comme son nom l'indique, il se concentre spécifiquement sur l'analyse et la compréhension des expressions régulières.
-
-[Darkmode.js](https://darkmodejs.learn.uno/) : En résumé, Darkmode.js est une bibliothèque JavaScript pratique pour ajouter un mode sombre à votre site web. Elle détecte automatiquement les paramètres du navigateur de l'utilisateur et applique les styles appropriés en fonction du mode sombre ou clair. Cela permet d'améliorer l'expérience utilisateur et de donner à votre site web un aspect attrayant, quel que soit le mode choisi par l'utilisateur.
-
-
 
