@@ -12,7 +12,7 @@ description: "Ressources liées Git & GitHub "
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR) : En résumé, Learn Git Branching est une ressource précieuse pour apprendre Git et les branches Git. Son approche interactive et pratique permet aux utilisateurs de développer leurs compétences en utilisant Git de manière pratique, ce qui facilite la compréhension des concepts clés et l'acquisition d'une expérience concrète de travail avec Git.
 
-
+[Débuter avec Git Archives](https://carlchenet.com/category/debuter-avec-git/) : En résumé, c'est un blog personnel tenu par Carl Chenet, qui propose une série d'articles et de tutoriels pour débuter avec Git, un système de contrôle de version largement utilisé dans le développement logiciel.
 
 ## Exercices
 

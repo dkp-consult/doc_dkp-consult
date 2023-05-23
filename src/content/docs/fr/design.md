@@ -114,3 +114,7 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### TailwindToolBox
 
 [TailwindToolBox](https://www.tailwindtoolbox.com/starter-templates) : Tailwind Toolbox est un site Web qui propose une collection de modèles de démarrage (starter templates) prêts à l'emploi pour le framework CSS Tailwind CSS. Ces modèles sont conçus pour vous aider à démarrer rapidement vos projets en vous fournissant des mises en page, des composants et des styles préconstruits que vous pouvez utiliser et personnaliser selon vos besoins.
+
+### useAnimations
+
+[useAnimations](https://useanimations.com/index.html) : En résumé, UseAnimations est une bibliothèque en ligne de ressources d'animations SVG prêtes à être utilisées dans vos projets web. Elle propose une vaste collection d'animations de haute qualité que vous pouvez télécharger ou copier directement dans votre code. Que vous ayez besoin d'animer des icônes, des illustrations ou d'autres éléments visuels, UseAnimations vous offre une variété d'options pour ajouter du mouvement et de l'interactivité à votre site web.

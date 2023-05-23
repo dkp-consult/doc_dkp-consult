@@ -41,6 +41,14 @@ description: "Ressources liées au CSS"
 
 [Animate.css](https://animate.style/) : Animate.style est une bibliothèque CSS qui propose une collection de animations pré-conçues prêtes à être utilisées dans vos projets web. Elle simplifie le processus d'ajout d'animations à vos éléments HTML en vous permettant d'appliquer des classes CSS spécifiques pour déclencher différentes animations.
 
+[Keyframes](https://keyframes.app/) : En résumé, Keyframes.app est un outil en ligne pratique pour créer des animations CSS personnalisées. Il offre une interface visuelle conviviale, une prévisualisation en temps réel, la génération de code CSS et d'autres fonctionnalités qui simplifient le processus de création d'animations CSS attrayantes et interactives pour votre site web.
+
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/) : En résumé, CSS Grid Generator est un outil en ligne pratique pour générer du code CSS pour des mises en page basées sur CSS Grid. Il vous permet de définir facilement les dimensions, les marges et les espacements de votre grille, et génère automatiquement le code CSS correspondant. Cela vous aide à créer des mises en page flexibles et réactives sans avoir à écrire manuellement tout le code CSS.
+
+[Smooth Shadow](https://shadows.brumm.af/) : En résumé, Shadows.brumm.af est un outil pratique pour créer des ombres CSS personnalisées. Il offre une interface visuelle conviviale où vous pouvez ajuster les paramètres de l'ombre et prévisualiser les résultats en temps réel. Une fois satisfait, vous pouvez générer le code CSS correspondant et l'intégrer dans votre projet web.
+
+[pattern.css](https://bansal.io/pattern-css) : En résumé, pattern.css est un site qui propose une collection de motifs CSS pré-conçus et prêts à l'emploi pour ajouter des styles visuels à vos projets web. Ces motifs CSS peuvent être utilisés pour créer des arrière-plans, des bordures, des motifs de texte et bien d'autres éléments graphiques.
+
 ## Cheatsheet
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.

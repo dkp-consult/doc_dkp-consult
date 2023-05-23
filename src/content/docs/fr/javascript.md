@@ -30,6 +30,8 @@ description: "Ressources liées au Javascript"
 
 [Swiper](https://swiperjs.com/) : Swiper est une bibliothèque JavaScript populaire et puissante pour créer des carrousels et des sliders interactifs. Il est utilisé pour créer des galeries d'images, des diaporamas, des présentations, des bannières publicitaires et d'autres éléments interactifs basés sur le glissement tactile.
 
+[Theatre.js](https://www.theatrejs.com/) : En résumé, Theatre.js est une bibliothèque JavaScript polyvalente qui simplifie la création d'animations et d'effets de transition sur les pages web, offrant un contrôle précis et une grande flexibilité dans la mise en scène des animations.
+
 ## Cheatsheet
 
 [JS CheatSheet](https://htmlcheatsheet.com/js/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage JS.
@@ -55,3 +57,8 @@ description: "Ressources liées au Javascript"
 [Regexr](https://regexr.com/) : Regexr est un site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Les expressions régulières sont des motifs de recherche utilisés pour trouver des correspondances dans les chaînes de caractères. Elles sont couramment utilisées dans le développement web, le traitement de texte, la manipulation de données et bien d'autres domaines.
 
 [regex101](https://regex101.com/) : Regex101 est un autre site web très utile pour tester, expérimenter et apprendre les expressions régulières (regex). Comme son nom l'indique, il se concentre spécifiquement sur l'analyse et la compréhension des expressions régulières.
+
+[Darkmode.js](https://darkmodejs.learn.uno/) : En résumé, Darkmode.js est une bibliothèque JavaScript pratique pour ajouter un mode sombre à votre site web. Elle détecte automatiquement les paramètres du navigateur de l'utilisateur et applique les styles appropriés en fonction du mode sombre ou clair. Cela permet d'améliorer l'expérience utilisateur et de donner à votre site web un aspect attrayant, quel que soit le mode choisi par l'utilisateur.
+
+
+

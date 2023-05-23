@@ -153,6 +153,12 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [Learn Anything](https://learn-anything.xyz/) : En résumé, Learn Anything est une plateforme qui facilite l'apprentissage et la découverte de nouveaux sujets en regroupant des ressources provenant de différentes sources. Que vous souhaitiez approfondir vos connaissances dans un domaine spécifique ou explorer de nouveaux domaines d'apprentissage, Learn Anything peut vous aider en vous offrant une vue d'ensemble organisée des ressources disponibles.
 
+### LambdaTest
 
+[LambdaTest](https://www.lambdatest.com/) : En résumé, LambdaTest est une plateforme de test de compatibilité des navigateurs en ligne qui vous permet de tester votre site web ou votre application sur une large gamme de navigateurs, de systèmes d'exploitation et de périphériques. Cela vous aide à garantir que votre site web fonctionne correctement sur tous les navigateurs populaires et offre une expérience utilisateur cohérente.
+
+### Chapril
+
+[Chapril](https://www.chapril.org/) : En résumé, chapril est le site web d'une association qui promeut les logiciels libres et ouverts ainsi que la culture du partage des connaissances, offrant des ressources, des actualités et des opportunités d'engagement pour ceux qui partagent ces valeurs.
 
 
