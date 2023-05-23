@@ -38,19 +38,22 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	fr: {
 		'Thèmes': [
+			{ text: 'Articles & Tutoriels', link: 'fr/articles-et-tutoriels'},
 			{ text: 'HTML', link: 'fr/html' },
 			{ text: 'CSS', link: 'fr/css' },
-			{ text: 'Javascript', link: 'fr/javascript' },
 			{ text: 'GitHub', link: 'fr/github' },
+			{ text: 'Javascript', link: 'fr/javascript' },
+			{ text: 'React', link: 'fr/react' },
+			{ text: 'Python', link: 'fr/python' },
+			{ text: 'Markdown', link: 'fr/markdown' },
+			{ text: 'Design', link: 'fr/design'},
+			{ text: 'Exercices', link: 'fr/exercices' },
+			{ text: 'Outils', link: 'fr/outils'},
 			{ text: 'Linux', link: 'fr/linux' },
-			{ text: 'Template', link: 'fr/template'},
-			{ text: 'Boite à outils', link: 'fr/outils'}
+			{ text: 'Sources', link: 'fr/sources' },
 		],
 		'Snippets': [
 			{ text: 'Page 4', link: 'fr/snippets/page-4' }
 		],
-		'Liens externes' : [
-			{ text : 'Externe', link: 'fr/page-4'}
-		]
 	},
 };
