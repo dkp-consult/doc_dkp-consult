@@ -55,6 +55,8 @@ description: "Ressources liées au Javascript"
 
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : En résumé, le dépôt "airbnb/javascript" sur GitHub fournit un guide de style JavaScript maintenu par Airbnb, offrant des recommandations et des conventions de codage pour établir des normes de qualité et de lisibilité du code JavaScript. Il est utilisé par de nombreux développeurs et équipes pour maintenir la cohérence du code et améliorer la collaboration.
 
+[Strawberry](https://18alan.space/strawberry/) : Un simple framework JS pour faire des sites simples sans build. **ALPHA VERSION**
+
 ## Livres
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) : En résumé, le dépôt "getify/You-Dont-Know-JS" sur GitHub contient une série de livres en ligne intitulée "You Don't Know JS", écrite par Kyle Simpson. Ces livres approfondissent les aspects fondamentaux et avancés de JavaScript, offrant une compréhension approfondie du langage et des meilleures pratiques de programmation. La série couvre divers sujets clés de JavaScript et est disponible gratuitement en ligne.
