@@ -103,6 +103,7 @@ description: "Ressources liées au CSS"
 
 [SmolCSS](https://smolcss.dev/) : Minimal snippets for modern CSS layouts and components
 
+[PureCSS](https://purecss.io/) : A set of small, responsive CSS modules that you can use in every web project.
 
 ## Cheatsheet
 
