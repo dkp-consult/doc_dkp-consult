@@ -16,6 +16,8 @@ description: "Ressources liées au HTML"
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
+[exercism](https://exercism.org/) : Plateforme d’apprentissage avec la pratique vous apprenez un langage tout en réfléchissant a des algo ‘simple’ et permet d'être mieux préparé aux tests techniques.
+
 ## Exercices
 
 ## Perfectionnement

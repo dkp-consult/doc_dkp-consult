@@ -19,6 +19,8 @@ description: "Ressources liées au CSS"
 
 [Learn CSS](https://web.dev/learn/css/) : Ce cours décompose les principes fondamentaux du CSS en éléments digestes et faciles à comprendre. Au cours des prochains modules, vous apprendrez comment fonctionnent les aspects fondamentaux de CSS et comment les utiliser efficacement dans vos projets. 
 
+[exercism](https://exercism.org/) : Plateforme d’apprentissage avec la pratique vous apprenez un langage tout en réfléchissant a des algo ‘simple’ et permet d'être mieux préparé aux tests techniques.
+
 ## Exercices 
 
 [Flebox Froggy](https://flexboxfroggy.com/#fr) : Flexbox Froggy est un jeu interactif en ligne qui permet d'apprendre les bases du positionnement des éléments HTML à l'aide de la propriété CSS Flexbox. Il propose une approche ludique et pratique pour comprendre et maîtriser Flexbox, qui est une technique très utile pour créer des mises en page flexibles et réactives.
@@ -94,6 +96,13 @@ description: "Ressources liées au CSS"
 [CSS Glass](https://css.glass/): Pour tester le glassmorphisme. 
 
 [Mesher](https://csshero.org/mesher/) : Mesher pour générer des gradient complexes. 
+
+[Bulma UI](https://bulma.io/) : Bulma est un framework open source gratuit qui fournit des composants frontaux prêts à l'emploi que vous pouvez facilement combiner pour créer des interfaces Web responsive.
+
+[CSS Portal](https://www.cssportal.com/css-loader-generator/) : Loader CSS
+
+[SmolCSS](https://smolcss.dev/) : Minimal snippets for modern CSS layouts and components
+
 
 ## Cheatsheet
 

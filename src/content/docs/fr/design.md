@@ -153,3 +153,16 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 
 [uigarage.net](uigarage.net) : Site pour trouver l'inspiration
 
+
+### Case Study 
+
+[47 Cases Study](https://growth.design/case-studies) : Exemple de cas pratiques pour améliorer ses compétences en UI. 
+
+
+### Undesign
+
+[Undesign](https://undesign.learn.uno/) : Collection of free design tools and resources for makers, developers and designers.
+
+### FloatUI 
+
+[FloatUI](https://floatui.com/) : Composant, templates, etc. Le tout en open source. 

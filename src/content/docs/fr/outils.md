@@ -222,3 +222,48 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [Facture.net](https://www.facture.net/) : Gérez votre fichier client, établissez des devis et générez des factures gratuitement.
 
+### Lorem Ipsum generator
+
+[Lorem Ipsum generator](https://www.lipsum.com/) : Générateur de Lorem Ipsum
+
+### Lorem Picsum
+
+[Lorem Picsum](https://picsum.photos/) : Générateur de photos.
+
+### Lorem avatars
+
+[Lorem avatars](https://pravatar.cc/) : Générateur de avatars.
+
+### Contrast checker 
+
+[Contrast checker](https://colorable.jxnblk.com/) : Pour tester les contrastes. 
+
+### Blob generator
+
+[Blob generator](https://www.blobmaker.app/) : Générateur de forme ronde type 'blob'
+
+### Waves generator
+
+[Waves generator](https://getwaves.io/) : Générateur de vagues
+
+### Mockup creator
+
+[Mockup creator](https://mockups.pixeltrue.com/) : Réalisation de mockup pour différents supports. 
+
+
+### Frontend Checklist
+
+[Frontend Checklist](https://frontendchecklist.io/) : Outils qui vérifie que tous les standars front-end sont bel et bien respecté. 
+
+### Mise en forme de capture écran 
+
+[Mise en forme de screenshot](https://shots.so/) : Outils de mise en valeur des captures d'écran. 
+
+### Gumroad
+
+[Gumroad](https://gumroad.com/) : Avec Gumroad, n'importe qui peut gagner ses premiers euros en ligne. Commencez en vendant vos premiers produits digitaux.
+
+###
+
+[]() : 
+

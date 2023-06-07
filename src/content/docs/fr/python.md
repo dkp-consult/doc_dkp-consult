@@ -10,11 +10,17 @@ description: "Ressources liées à Python "
 
 [CS50's Web Programming](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/8a184b522ff64485b6701b8a05d1160e/) : Le cours "CS50's Web Programming with Python and JavaScript" sur edX est une excellente ressource pour acquérir une solide base de connaissances dans le domaine du développement web et pour améliorer vos compétences en programmation. Il est enseigné par des experts de Harvard University et offre une expérience d'apprentissage interactive et engageante.
 
+[DocstringFR](https://www.docstring.fr/) : Des formations Python pour tous les niveaux.
+
+[OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
+
 ## Exercices
 
 [Citizen Code Python](https://www.futureengineer.fr/) : WIP
 
 [Code Combat](https://codecombat.com/) : CodeCombat est une plateforme d'apprentissage de la programmation axée sur le jeu. Elle offre aux utilisateurs, en particulier aux débutants, une expérience interactive et ludique pour apprendre à coder. CodeCombat propose un large éventail de langages de programmation, y compris JavaScript, Python, Java, C++, et bien d'autres. Cela permet aux utilisateurs d'apprendre la syntaxe et les concepts de programmation dans le langage de leur choix.
+
+[exercism](https://exercism.org/) : Plateforme d’apprentissage avec la pratique vous apprenez un langage tout en réfléchissant a des algo ‘simple’ et permet d'être mieux préparé aux tests techniques.
 
 ## Outils
 

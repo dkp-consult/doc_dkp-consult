@@ -10,6 +10,9 @@ description: "Ressources liées au SEO"
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
+[LearningSEO](https://learningseo.io/) : Commencez à apprendre le référencement ou développez votre formation en référencement pour augmenter le trafic organique de votre site en comprenant tous les aspects du référencement afin de devenir ou de vous développer davantage en tant que spécialiste du référencement avec Learning SEO. Learning SEO est un guide complet, présentant les principaux domaines ainsi que des ressources pour apprendre.
+
+
 ## Exercices
 
 ## Outils

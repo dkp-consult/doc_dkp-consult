@@ -54,6 +54,14 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [Bonnes pratiques CSS](https://www.wanadev.fr/157-bonnes-pratiques-css-pourquoi-et-comment-sorganiser/) : En résumé, l'article de Wanadev présente des conseils pratiques et des bonnes pratiques pour organiser et structurer efficacement votre code CSS, ce qui contribue à une meilleure maintenabilité, réutilisabilité et évolutivité de votre projet web.
 
+[Prettier for TailwindCSS](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier) : Article sur le plugin Prettier pour Tailwind CSS.
+
+[Developer Certifications](https://www.freecodecamp.org/news/free-certificates/) : freeCodeCamp propose une liste de certification gratuite pour les développeurs.
+
+[Code Suzette](https://codesuzette.dev/) : Site regroupant ressources, videos, jeux, challenges afin d'apprendre et monter en compétances. 
+
+[Medusa](https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/) : Article freeCodeCamp sur le framework Medusa. 
+
 ### GitHub repositories
 
 [DevOps Exercices](https://github.com/bregman-arie/devops-exercises) : Le référentiel GitHub "devops-exercises" de bregman-arie est un ensemble de défis et d'exercices pratiques liés à DevOps. Il vise à aider les professionnels et les apprenants à acquérir des compétences pratiques en matière de DevOps en leur fournissant des exercices pratiques et des problèmes à résoudre.

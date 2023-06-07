@@ -22,6 +22,10 @@ description: "Ressources liées au Javascript"
 
 [Beginner Javascript Notes](https://wesbos.com/javascript) : Guide sur le JS.
 
+[Javascript.info](https://fr.javascript.info/) : Tutoriels sur le JavaScript moderne. 
+
+[exercism](https://exercism.org/) : Plateforme d’apprentissage avec la pratique vous apprenez un langage tout en réfléchissant a des algo ‘simple’ et permet d'être mieux préparé aux tests techniques.
+
 ## Exercices
 
 [Elevator Saga](http://play.elevatorsaga.com/) :  Elevator Saga est un jeu en ligne qui vous met au défi de programmer un système de contrôle d'ascenseurs. Le but du jeu est de créer un algorithme qui permet de transporter efficacement des personnes à différents étages en utilisant un certain nombre d'ascenseurs.

@@ -18,6 +18,8 @@ description: "Ressources liées à Linux "
 
 [Apprendre le shell bash en s'amusant](https://forum-francophone-linuxmint.fr/viewtopic.php?f=35&t=18083) : GameShell a été conçu comme un outil pour aider les étudiants de l'Université Savoie Mont Blanc à s'engager avec une vraie coquille, d'une manière qui encourage l'apprentissage tout en s'amusant.
 
+[Command line murder mystery](https://github.com/veltman/clmystery) : command line murder mystery qui te fait chercher dans des fichiers et tout avec grep.
+
 ## Perfectionnement
 
 ## Outils
