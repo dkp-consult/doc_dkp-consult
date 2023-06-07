@@ -14,6 +14,20 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [Trouver un emploi comme développeur](https://alexsoyes.com/trouver-emploi-developpeur/) : Comment trouver du travail en tant que développeur ? Junior, senior, en alternance… Mes astuces pour la recherche d’emploi du développeur.
 
+#### Où poster son CV
+
+[http://Malt.fr](http://Malt.fr) : WIP
+
+[http://Freelance.com](http://Freelance.com) : WIP
+
+[http://Codeur.com](http://Codeur.com) : WIP
+
+[http://5euros.com](http://5euros.com) : WIP
+
+[http://fiverr.com](http://fiverr.com) : WIP
+
+[http://upwork.com](http://upwork.com) : WIP
+
 ### Apprentissage
 
 [Learn to Code](https://www.freecodecamp.org/news/learn-to-code-book/) : "Learn to Code" est une ressource précieuse pour les débutants qui souhaitent se lancer dans la programmation et le développement web. Il offre une approche progressive et pratique pour acquérir les bases du codage et constitue une excellente ressource pour ceux qui préfèrent apprendre de manière autonome.

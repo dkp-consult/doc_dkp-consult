@@ -170,3 +170,47 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [Code Diff Tool](https://fr.w3docs.com/tools/code-diff/) : L'outil Code Diff est pratique pour analyser les modifications de code, effectuer des révisions de code en collaboration avec d'autres développeurs, ou simplement pour comprendre les différences entre deux versions de code. Il peut vous aider à détecter les erreurs, à résoudre les conflits ou à comprendre les améliorations apportées au code.
 
+### Carbon calculator 
+
+[Carbon Calculator](https://www.websitecarbon.com/) : Site qui permet d'analyser l'écodeveloppement de votre site web.
+
+### Code snippets tools
+
+[Masscode](https://masscode.io/) : WIP
+
+[Cacher](https://www.cacher.io/) : WIP
+
+[GitHub Gist](https://gist.github.com/) : WIP
+
+[Lepton](https://hackjutsu.com/Lepton/) : WIP
+
+### Code snippets site
+
+[https://codepad.co/](https://codepad.co/) : WIP
+
+[snipplr.com](snipplr.com) : WIP
+
+[codepen.io](codepen.io) : WIP
+
+[webcode.tools](webcode.tools) : WIP
+
+[codemyui.com](codemyui.com) : WIP
+
+[bootsnipp.com](bootsnipp.com) : WIP
+
+[codeply.com](codeply.com) : WIP
+
+[freefrontend.com](freefrontend.com) : WIP
+
+[css-tricks.com/snippets/](css-tricks.com/snippets/) : WIP
+
+[codesandbox.io/search](codesandbox.io/search) : WIP
+
+[30secondsofcode.org](30secondsofcode.org) : WIP
+
+[littlesnippets.net](littlesnippets.net) : WIP
+
+[w3schools.com](w3schools.com) : WIP
+
+[cssdeck.com](cssdeck.com) : WIP
+

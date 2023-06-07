@@ -130,3 +130,26 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### Color Contrast Checker
 
 [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) : En utilisant l'outil de vérification du contraste de Coolors, vous pouvez vous assurer que les combinaisons de couleurs que vous utilisez dans votre design respectent les normes d'accessibilité et offrent une expérience de lecture optimale pour tous les utilisateurs.
+
+### Toools Design 
+
+[Toools Design](https://www.toools.design/) : 1000+ resources de design
+
+### Inspirations
+
+[awwwards.com](awwwards.com) : Inspiration
+
+[behance.net](behance.net) : Site pour trouver l'inspiration
+
+[dribbble.com](dribbble.com) : Site pour trouver l'inspiration
+
+[mobbin.design](mobbin.design) : Site pour trouver l'inspiration
+
+[mobile-patterns.com](mobile-patterns.com) : Site pour trouver l'inspiration
+
+[screenlane.com](screenlane.com) : Site pour trouver l'inspiration
+
+[scrnshts.club](scrnshts.club) : Site pour trouver l'inspiration
+
+[uigarage.net](uigarage.net) : Site pour trouver l'inspiration
+

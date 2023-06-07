@@ -33,6 +33,10 @@ description: "Ressources liées au CSS"
 
 [Variables de couleur SCSS](https://htmlcolorcodes.com/fr/tutoriels/variables-de-couleur-scss/) : Mots d'explication sur les variables de couleurs SCSS/SASS
 
+[Les spécificités CSS](https://resospheres.net/comprendre-la-specificite-css) : Comprendre la spécificité en CSS - FR
+
+[Les spécificités CSS](https://csswizardry.com/2014/10/the-specificity-graph/) : Comprendre la spécificité en CSS - EN
+
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.
@@ -56,6 +60,8 @@ description: "Ressources liées au CSS"
 [pattern.css](https://bansal.io/pattern-css) : En résumé, pattern.css est un site qui propose une collection de motifs CSS pré-conçus et prêts à l'emploi pour ajouter des styles visuels à vos projets web. Ces motifs CSS peuvent être utilisés pour créer des arrière-plans, des bordures, des motifs de texte et bien d'autres éléments graphiques.
 
 [VS Code Live SASS Compiler](https://github.com/glenn2223/vscode-live-sass-compiler) : L'extension "vscode-live-sass-compiler" est un outil pratique pour les développeurs qui utilisent Sass dans leurs projets. Elle accélère le processus de développement en éliminant la nécessité de compiler manuellement les fichiers Sass à chaque modification. Cela permet de gagner du temps et d'améliorer l'efficacité du flux de travail de développement front-end.
+
+[CSS Layout](https://csslayout.io/) : Site qui regroupe des layout et pattern à copie/coller dans nos projets. 
 
 ## Cheatsheet
 
