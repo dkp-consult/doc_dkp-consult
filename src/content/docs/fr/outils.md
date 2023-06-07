@@ -214,3 +214,11 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [cssdeck.com](cssdeck.com) : WIP
 
+### Responsive viewer
+
+[Responsive Viewer](https://responsiveviewer.org/) : Vérifier l'affichage d'un site internet sous tous les formats (mobile, tablette, ordinateur...).
+
+### Facture.net
+
+[Facture.net](https://www.facture.net/) : Gérez votre fichier client, établissez des devis et générez des factures gratuitement.
+

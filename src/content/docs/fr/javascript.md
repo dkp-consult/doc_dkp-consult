@@ -20,6 +20,8 @@ description: "Ressources liées au Javascript"
 
 [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) : La ressource sur les "Sorting Algorithms" de Toptal est une excellente référence pour ceux qui souhaitent approfondir leur compréhension des algorithmes de tri et apprendre à les utiliser de manière efficace dans leurs programmes. Que vous soyez un étudiant en informatique, un développeur ou un passionné d'algorithmes, cette ressource peut vous aider à renforcer vos connaissances et à améliorer vos compétences en matière de programmation.
 
+[Beginner Javascript Notes](https://wesbos.com/javascript) : Guide sur le JS.
+
 ## Exercices
 
 [Elevator Saga](http://play.elevatorsaga.com/) :  Elevator Saga est un jeu en ligne qui vous met au défi de programmer un système de contrôle d'ascenseurs. Le but du jeu est de créer un algorithme qui permet de transporter efficacement des personnes à différents étages en utilisant un certain nombre d'ascenseurs.
@@ -56,6 +58,14 @@ description: "Ressources liées au Javascript"
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) : En résumé, le dépôt "airbnb/javascript" sur GitHub fournit un guide de style JavaScript maintenu par Airbnb, offrant des recommandations et des conventions de codage pour établir des normes de qualité et de lisibilité du code JavaScript. Il est utilisé par de nombreux développeurs et équipes pour maintenir la cohérence du code et améliorer la collaboration.
 
 [Strawberry](https://18alan.space/strawberry/) : Un simple framework JS pour faire des sites simples sans build. **ALPHA VERSION**
+
+[ChartJS](https://www.chartjs.org/) : Graphiques JavaScript simples, propres et attrayants basés sur HTML5. Chart.js est un moyen facile d'inclure gratuitement des graphiques animés et interactifs sur votre site web.
+
+[FrappeJS](https://frappe.io/charts) : Graphiques SVG simples et modernes pour le web, inspirés de GitHub, sans aucune dépendance.
+
+[G2Plot](https://g2plot.antv.vision/en) : G2Plot est une bibliothèque de graphiques interactive et réactive basée sur la grammaire des graphiques, qui permet aux utilisateurs de générer facilement des graphiques statistiques de haute qualité à travers quelques lignes de code.
+
+[ApexCharts](https://apexcharts.com/) : ApexCharts est une bibliothèque graphique moderne, gratuite et à code source ouvert, qui aide les développeurs à créer des visualisations magnifiques et interactives pour les pages Web.
 
 ## Livres
 

@@ -17,6 +17,8 @@ description: "Ressources liées au CSS"
 
 [OpenClassrooms](https://openclassrooms.com/fr/) : OpenClassrooms est une plateforme d'apprentissage en ligne qui propose des cours et des parcours de formation dans divers domaines, notamment la programmation, le développement web, la data science, le marketing numérique, la gestion de projet et bien plus encore.
 
+[Learn CSS](https://web.dev/learn/css/) : Ce cours décompose les principes fondamentaux du CSS en éléments digestes et faciles à comprendre. Au cours des prochains modules, vous apprendrez comment fonctionnent les aspects fondamentaux de CSS et comment les utiliser efficacement dans vos projets. 
+
 ## Exercices 
 
 [Flebox Froggy](https://flexboxfroggy.com/#fr) : Flexbox Froggy est un jeu interactif en ligne qui permet d'apprendre les bases du positionnement des éléments HTML à l'aide de la propriété CSS Flexbox. Il propose une approche ludique et pratique pour comprendre et maîtriser Flexbox, qui est une technique très utile pour créer des mises en page flexibles et réactives.
@@ -62,6 +64,36 @@ description: "Ressources liées au CSS"
 [VS Code Live SASS Compiler](https://github.com/glenn2223/vscode-live-sass-compiler) : L'extension "vscode-live-sass-compiler" est un outil pratique pour les développeurs qui utilisent Sass dans leurs projets. Elle accélère le processus de développement en éliminant la nécessité de compiler manuellement les fichiers Sass à chaque modification. Cela permet de gagner du temps et d'améliorer l'efficacité du flux de travail de développement front-end.
 
 [CSS Layout](https://csslayout.io/) : Site qui regroupe des layout et pattern à copie/coller dans nos projets. 
+
+[css3generator.com](css3generator.com) : WIP
+
+[grid.layoutit.com](grid.layoutit.com) : WIP
+
+[webcode.tools](webcode.tools) : WIP
+
+[cssgenerator.org](cssgenerator.org) : WIP
+
+[html-css-js.com](html-css-js.com) : WIP
+
+[cssgradient.io](cssgradient.io) : WIP
+
+[neumorphism.io](neumorphism.io) : WIP
+
+[Clippy](https://bennettfeely.com/clippy/) : Clippy, pour créer des masques de formes sur vos divs ou images facilement.
+
+[Shape Divider](https://www.shapedivider.app/) : Shape Divider, pour faire des séparations stylées sur vos sites.
+
+[Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) : Fancy Border Radius, pour réaliser des formes avec  border radius.
+
+[Haikei](https://app.haikei.app/) : Haikei, permet de générer des patterns, formes, background en SVG.
+
+[Smooth Shadow](https://shadows.brumm.af/) : Pour faire des ombres assez réalistes.
+
+[Cubic Bezier](https://cubic-bezier.com/) : Cubic Bezier, le fameux pour générer des transitions  facilement.
+
+[CSS Glass](https://css.glass/): Pour tester le glassmorphisme. 
+
+[Mesher](https://csshero.org/mesher/) : Mesher pour générer des gradient complexes. 
 
 ## Cheatsheet
 
