@@ -26,7 +26,7 @@ export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
 
 // See "Algolia" section of the README for more information. dkp: need to change search method
 export const ALGOLIA = {
-	indexName: 'test-json',
+	indexName: 'dev_doc.dkp-consult',
 	appId: 'DH2RGEYHJ4',
 	apiKey: '7988a9b19519922efb9047998326baa5',
 };
