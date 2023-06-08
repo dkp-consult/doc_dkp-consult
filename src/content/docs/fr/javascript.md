@@ -75,8 +75,10 @@ description: "Ressources liées au Javascript"
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) : En résumé, le dépôt "getify/You-Dont-Know-JS" sur GitHub contient une série de livres en ligne intitulée "You Don't Know JS", écrite par Kyle Simpson. Ces livres approfondissent les aspects fondamentaux et avancés de JavaScript, offrant une compréhension approfondie du langage et des meilleures pratiques de programmation. La série couvre divers sujets clés de JavaScript et est disponible gratuitement en ligne.
 
-
 [30 Javascript projects for Beginners](https://github.com/selemondev/30-Javascript-Projects-For-Beginners) : WIP
 
 [5 Projets pour progresser en Javascript](https://twitter.com/melvynxdev/status/1571167130141462533) : Melvyn nous donnes une liste de projet JS pour progresser
+
+[JavaScript Eloquent](https://fr.eloquentjavascript.net/) : JavaScript Éloquent : Une introduction moderne à la programmation
+
 

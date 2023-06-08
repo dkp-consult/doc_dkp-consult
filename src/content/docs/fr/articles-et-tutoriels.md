@@ -14,6 +14,8 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [Trouver un emploi comme développeur](https://alexsoyes.com/trouver-emploi-developpeur/) : Comment trouver du travail en tant que développeur ? Junior, senior, en alternance… Mes astuces pour la recherche d’emploi du développeur.
 
+[Pourquoi se former en tant que Dev freelance](https://www.lecercletech.com/formation-freelance-developpeur/) : Articles donnant des raisons de se former en tant que Dev freelance. 
+
 #### Où poster son CV
 
 [http://Malt.fr](http://Malt.fr) : WIP
@@ -37,6 +39,20 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 [Plateformes d'apprentissage](https://oclock.io/blog/4842/les-plateformes-pour-debuter-le-code) : En résumé, l'article de O'clock présente une sélection de plateformes populaires pour débuter l'apprentissage du code. Il offre un aperçu des fonctionnalités et des options disponibles sur chaque plateforme, ce qui peut aider les débutants à choisir celle qui correspond le mieux à leurs besoins et à leurs objectifs d'apprentissage.
 
 [Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0) : WIP
+
+[Introduction to Pure.css](https://blog.openreplay.com/introduction-to-pure-css/) : Article qui parle de Pure.css et en explique le fonctionnement, certaines limites. EN
+
+[Next.js entreprise project structure](https://blog.dennisokeeffe.com/blog/2021-12-06-nextjs-enterprise-project-structure) : Article à propos de la stucture d'un projet Next.js en entreprise. EN
+
+[How to build Full Stack application w/ ChatGPT](https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/) : freeCodeCamp blog post sur une manière de créer une application full stack avec l'aide de Chat GPT. EN
+
+[Media Queries & Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/) : Article parlant des Media Queries et du responsive. EN
+
+[Super useful CSS Ressources](https://dev.to/lissy93/super-useful-css-resources-1ba3) : Un post sur dev.to concernant des ressources CSS. EN
+
+[Agir pour le climat en tant que Dev](https://blog.octo.com/comment-sauver-le-climat-en-tant-que-developpeur-web/) : Article donnant différente pistes afin d'agir pour le climat en tant que Dev. 
+
+[Numérique responsable](https://positivethinking.tech/fr/insights-fr/numerique-responsable-concilier-engagement-et-metier-tech/) : Comment concilier engagement écologique et métier dans la Tech ? | by Positive Thinking Company
 
 ### Sécurité informatique 
 

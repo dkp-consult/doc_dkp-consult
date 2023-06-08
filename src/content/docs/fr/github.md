@@ -16,6 +16,8 @@ description: "Ressources liées Git & GitHub "
 
 [Guide pour utiliser Git](https://github.com/Yglsan/git-howto-easy-12steps-En-Fr/tree/main) : Ce guide vise à aider les débutants à maîtriser Git et à comprendre les concepts fondamentaux du contrôle de version. Il couvre des sujets tels que l'initialisation d'un référentiel Git, l'ajout et la suppression de fichiers, la gestion des branches, les opérations de fusion et de remisage, et bien plus encore.
 
+[Git par la pratique](https://nouslesdevs.com/git/git-par-la-pratique/) : Différents articles sur Git et son utilisation pratique. 
+
 ## Exercices
 
 ## Perfectionnement
