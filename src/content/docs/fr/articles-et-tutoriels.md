@@ -78,6 +78,10 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [Medusa](https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/) : Article freeCodeCamp sur le framework Medusa. 
 
+[5 React Libraries to Level Up project](https://livecycle.io/blogs/react-libraries/) : Article citant 5 librairies React pour améliorer ses projets. 
+
+[Scraping with chatGPT](https://threadreaderapp.com/thread/1670799349004083200.html?s=20) : Un thread qui explique comment scrapper rapidement avec chatGPT.
+
 ### GitHub repositories
 
 [DevOps Exercices](https://github.com/bregman-arie/devops-exercises) : Le référentiel GitHub "devops-exercises" de bregman-arie est un ensemble de défis et d'exercices pratiques liés à DevOps. Il vise à aider les professionnels et les apprenants à acquérir des compétences pratiques en matière de DevOps en leur fournissant des exercices pratiques et des problèmes à résoudre.

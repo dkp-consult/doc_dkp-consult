@@ -20,6 +20,15 @@ description: "Bienvenue sur la section React"
 
 [NextReact](https://codelynx.dev/nextreact) : Maîtrise l'écosystème React avec cette expérience interactive par Melvyn.
 
+[TanStack React Query](https://github.com/TanStack/query) : WIP
+
+[Zustand](https://github.com/pmndrs/zustand) : WIP
+
+[Framer Motion](https://github.com/framer/motion) : WIP
+
+[Class Variance Authority (CVA)](https://github.com/joe-bell/cva) :  WIP
+
+[Radix UI](https://github.com/radix-ui/primitives) :  WIP
 
 
 ## Cheatsheet

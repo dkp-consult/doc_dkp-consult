@@ -104,6 +104,9 @@ description: "Ressources liées au CSS"
 
 [PureCSS](https://purecss.io/) : A set of small, responsive CSS modules that you can use in every web project.
 
+[Panda-CSS](https://github.com/chakra-ui/panda) : Panda is a universal styling solution for the modern web — build time, type safe, and scalable CSS-in-JS.
+
+
 ## Cheatsheet
 
 [CSS Cheatsheet](https://htmlcheatsheet.com/css/) : est un site web qui fournit une feuille de triche (cheatsheet) pratique et complète pour le langage CSS.
