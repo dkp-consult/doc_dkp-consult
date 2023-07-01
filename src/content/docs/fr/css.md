@@ -66,19 +66,19 @@ description: "Ressources liées au CSS"
 
 [CSS Layout](https://csslayout.io/) : Site qui regroupe des layout et pattern à copie/coller dans nos projets. 
 
-[css3generator.com](css3generator.com) : WIP
+[css3generator.com](https://css3generator.com) : WIP
 
-[grid.layoutit.com](grid.layoutit.com) : WIP
+[grid.layoutit.com](https://grid.layoutit.com) : WIP
 
-[webcode.tools](webcode.tools) : WIP
+[webcode.tools](https://webcode.tools) : WIP
 
-[cssgenerator.org](cssgenerator.org) : WIP
+[cssgenerator.org](https://cssgenerator.org) : WIP
 
-[html-css-js.com](html-css-js.com) : WIP
+[html-css-js.com](https://html-css-js.com) : WIP
 
-[cssgradient.io](cssgradient.io) : WIP
+[cssgradient.io](https://cssgradient.io) : WIP
 
-[neumorphism.io](neumorphism.io) : WIP
+[neumorphism.io](https://neumorphism.io) : WIP
 
 [Clippy](https://bennettfeely.com/clippy/) : Clippy, pour créer des masques de formes sur vos divs ou images facilement.
 
