@@ -263,6 +263,10 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [Gumroad](https://gumroad.com/) : Avec Gumroad, n'importe qui peut gagner ses premiers euros en ligne. Commencez en vendant vos premiers produits digitaux.
 
+### Emmet Cheatsheet
+
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) : Sheet cheat sur la syntax Emmet
+
 ###
 
 []() : 

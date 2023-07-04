@@ -40,6 +40,10 @@ description: "Ressources liées au CSS"
 
 [Les spécificités CSS](https://csswizardry.com/2014/10/the-specificity-graph/) : Comprendre la spécificité en CSS - EN
 
+[Css Protips](https://github.com/AllThingsSmitty/css-protips) : Liste de trucs & astuces pour améliorer ses compétences en CSS. 
+
+[Astuces thème sombre](https://lehollandaisvolant.net/?d=2023/06/17/14/36/05-astuces-css-pour-faire-un-theme-sombre) : Articles donnant des conseils pour la réalisation et mise en place d'un thème sombre from scratch.   
+
 ## Outils
 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/) : Gradient Generator de Josh Comeau est un outil en ligne qui permet de créer facilement des dégradés CSS personnalisés. C'est un outil pratique pour les développeurs et les concepteurs qui souhaitent expérimenter et générer des dégradés visuellement attrayants pour leurs projets.

@@ -166,3 +166,8 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### FloatUI 
 
 [FloatUI](https://floatui.com/) : Composant, templates, etc. Le tout en open source. 
+
+
+### OpenMoji
+
+[OpenMoji](https://openmoji.org/) : Bibliothèque d'émojis open source. 
