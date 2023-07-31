@@ -82,6 +82,8 @@ Ici je vais lister différents articles déjà lu ou que j'ai lu et trouvé inte
 
 [Scraping with chatGPT](https://threadreaderapp.com/thread/1670799349004083200.html?s=20) : Un thread qui explique comment scrapper rapidement avec chatGPT.
 
+[5 Outils de gestion de projet - Toons Blog](https://blog.tony-hubert.tech/5-outils-pratiques-pour-la-gestion-de-projet/) : La gestion de projet est une discipline essentielle pour mener à bien des projets, qu’ils soient de petite ou grande envergure. Pour réussir efficacement cette tâche, il est essentiel de disposer des bons outils. Dans cet article, nous allons explorer quelques-uns des outils les plus pratiques pour la gestion de projet.
+
 ### GitHub repositories
 
 [DevOps Exercices](https://github.com/bregman-arie/devops-exercises) : Le référentiel GitHub "devops-exercises" de bregman-arie est un ensemble de défis et d'exercices pratiques liés à DevOps. Il vise à aider les professionnels et les apprenants à acquérir des compétences pratiques en matière de DevOps en leur fournissant des exercices pratiques et des problèmes à résoudre.

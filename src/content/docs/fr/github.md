@@ -22,7 +22,11 @@ description: "Ressources liées Git & GitHub "
 
 ## Perfectionnement
 
+[Conventional Commits](https://www.conventionalcommits.org/fr/v1.0.0/) : La convention Conventional Commits est largement utilisée dans de nombreux projets open-source et offre une approche standardisée pour rédiger des messages de commit informatifs et cohérents. Cela améliore la collaboration entre les développeurs et facilite la maintenance du code à long terme.
+
 ## Outils
+
+[CommitLint](https://commitlint.js.org/#/) : Commitlint est un outil open-source utilisé pour appliquer des règles aux messages de commit dans les projets Git. Il encourage les contributeurs à suivre une convention de message de commit cohérente, ce qui facilite la lecture de l'historique des commits et aide à maintenir une meilleure traçabilité des changements apportés au code.
 
 ## Cheatsheet
 

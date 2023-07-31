@@ -24,3 +24,5 @@ description: "Ressources liées au SEO"
 [Web Rank Info](https://www.webrankinfo.com/) : En résumé, Webrankinfo est une ressource précieuse pour les personnes intéressées par le référencement et le marketing en ligne, offrant des conseils, des guides et des informations utiles pour améliorer la visibilité et la performance de leur site Web dans les moteurs de recherche.
 
 [Google SEO Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr) : En utilisant ce guide, vous pouvez acquérir les connaissances de base nécessaires pour améliorer la visibilité de votre site Web dans les résultats de recherche et attirer un trafic organique de qualité. Il est régulièrement mis à jour pour refléter les dernières tendances et meilleures pratiques en matière de référencement, ce qui en fait une ressource précieuse pour les débutants ainsi que pour les professionnels du référencement.
+
+[Semji - Etat des contenus SEO](https://semji.com/wp-content/uploads/2023/01/ETUDE-SEMJI-Etat-des-contenus-SEO-en-2023-.pdf) : Présentation liée au SEO en 2023 par Semji. 
