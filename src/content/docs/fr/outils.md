@@ -267,7 +267,23 @@ Cette partie regroupe des outils divers et variés. Dans un premier temps, ils s
 
 [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) : Sheet cheat sur la syntax Emmet
 
-###
+### Devhints
+
+[Devhints](https://devhints.io/) : Une cheatsheets indispensable de code snippets / raccourcis clavier de techno.
+
+### DevDocs
+
+[DevDocs](https://devdocs.io/) : Centralisation de toutes la documentation en un seul endroit. 
+
+### Checklist Design
+
+[Checklist](https://www.checklist.design/) : Checklist des différents éléments de design. 
+
+### Systeme.io
+
+[Systeme.io](https://systeme.io/fr) : La plateforme marketing tout en un la plus simple au monde
+
+### 
 
 []() : 
 

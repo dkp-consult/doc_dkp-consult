@@ -79,6 +79,11 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 
 [Coolors](https://coolors.co/) : Coolors.co est un générateur de palettes de couleurs en ligne qui vous permet de créer rapidement et facilement des combinaisons de couleurs harmonieuses pour vos projets de conception.
 
+### Happy Hues
+
+[Happy Hues](https://www.happyhues.co/) : Générateur de palettes de couleurs en ligne qui vous permet de créer rapidement et facilement des combinaisons de couleurs harmonieuses pour vos projets de conception.
+
+
 ### Canva
 
 [Canva](https://www.canva.com/) : Canva est une plateforme en ligne populaire qui permet aux utilisateurs de créer facilement des designs graphiques de haute qualité, tels que des présentations, des affiches, des infographies, des logos, des cartes de visite et bien plus encore, même sans compétences en design préalables.
@@ -171,3 +176,7 @@ L'idée ici est de centralisé les différentes ressources liées au visuel que 
 ### OpenMoji
 
 [OpenMoji](https://openmoji.org/) : Bibliothèque d'émojis open source. 
+
+### CodeMyUI
+
+[CodeMyUI](https://codemyui.com/) : Eléments HTML / JS à disposition.
